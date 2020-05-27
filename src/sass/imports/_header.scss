@@ -2,7 +2,7 @@
  * Site Header
  */
 .site-header {
-  border-bottom: 1px solid _palette(charcoal-light-75);
+  /*border-bottom: 1px solid _palette(charcoal-dark-15);*/
   padding-bottom: 1em;
   padding-top: 1em;
 }
@@ -36,15 +36,16 @@
 }
 
 .site-title {
-  color: #fff;
+  color: _palette(accent);
   font-size: 1.22222em;
-  font-weight: bold;
+  font-weight: 900;
   line-height: 1.1;
+  letter-spacing: 1.1px;
   margin: 0;
-  text-transform: uppercase;
+  text-transform: none;
 
   a {
-    background: _palette(accent);
+    background: #fff;
     display: inline-block;
     padding: 0.2em 0.45em;
   }
@@ -61,7 +62,7 @@
   line-height: 1.2;
 
   &.current-menu-item {
-    color: _palette(accent);
+    color: _palette(charcoal-light-60);
   }
 
   a {
@@ -70,7 +71,7 @@
       color: inherit;
 
       &:hover {
-        color: _palette(accent);
+        color: _palette(charcoal-light-60);
       }
     }
   }
@@ -138,8 +139,8 @@
     position: fixed;
     right: -100%;
     top: 0;
-    -webkit-transition: right .3s cubic-bezier(.65,.05,.36,1), visibility 0s .3s;
-    transition: right .3s cubic-bezier(.65,.05,.36,1), visibility 0s .3s;
+    -webkit-transition: all .6s cubic-bezier(.65,.05,.36,1), visibility 0s .3s;
+    transition: all .6s cubic-bezier(.65,.05,.36,1), visibility 0s .3s;
     visibility: hidden;
     width: 100%;
     z-index: 999;
@@ -208,8 +209,8 @@
 
     .site-navigation {
       right: 0;
-      -webkit-transition: right .3s ease;
-      transition: right .3s ease;
+      -webkit-transition: all .6s ease-in-out;
+      transition: all .6s eas-in-out;
       visibility: visible;
     }
   }

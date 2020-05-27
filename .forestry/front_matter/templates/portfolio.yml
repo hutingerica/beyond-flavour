@@ -1,5 +1,5 @@
 ---
-label: Portfolio
+label: Recipe
 hide_body: true
 is_partial: false
 fields:
@@ -36,4 +36,4 @@ fields:
     config:
       required: true
 pages:
-  - src/pages/portfolio/index.md
+  - src/pages/recipe/index.md

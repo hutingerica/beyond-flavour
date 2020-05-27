@@ -12,40 +12,40 @@ sections:
   - type: directory
     path: src/pages
     match: '**/*'
-    exclude: '{blog/index.md,portfolio/index.md}'
+    exclude: '{article/index.md,recipe/index.md}'
     label: Advanced Page
     create: all
     templates:
       - advanced
   - type: document
-    label: Blog
-    path: src/pages/blog/index.md
+    label: Article
+    path: src/pages/article/index.md
     templates:
       - blog
   - type: document
-    label: Portfolio
-    path: src/pages/portfolio/index.md
+    label: Recipe
+    path: src/pages/recipe/index.md
     templates:
       - portfolio
   - type: directory
     path: src/pages
     match: '**/*'
-    exclude: '{posts/**,blog/index.md,portfolio/index.md}'
+    exclude: '{articles/**,article/index.md,recipe/index.md}'
     label: Page
     create: all
     templates:
       - page
   - type: directory
-    path: src/pages/posts
+    path: src/pages/articles
     match: '**/*'
-    label: Post
+    label: Article
     create: all
     templates:
       - post
   - type: directory
-    path: src/pages/projects
+    path: src/pages/recipes
     match: '**/*'
-    label: Project
+    label: Recipe
     create: all
     templates:
       - project

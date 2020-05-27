@@ -1,10 +1,10 @@
 {
-    "title": "Stackbit Exto Theme",
+    "title": "& Beyond Flavour",
     "description": "A portfolio theme with a blog",
     "color_scheme": "light",
-    "accent_color": "pink",
+    "accent_color": "gray",
     "header": {
-        "title": "Exto",
+        "title": "&Beyond Flavour",
         "has_nav": true,
         "nav_links": [
             {
@@ -13,13 +13,13 @@
                 "type": "link"
             },
             {
-                "label": "Portfolio",
-                "url": "/portfolio/",
+                "label": "Recipe",
+                "url": "/recipe/",
                 "type": "link"
             },
             {
-                "label": "Blog",
-                "url": "/blog/",
+                "label": "Article",
+                "url": "/article/",
                 "type": "link"
             },
             {
@@ -40,7 +40,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit-Exto. All rights reserved.",
+        "content": "&copy; &Beyond Flavour. All rights reserved.",
         "links": [
             {
                 "label": "Made with Stackbit.",

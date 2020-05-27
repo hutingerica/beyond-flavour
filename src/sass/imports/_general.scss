@@ -36,7 +36,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: bold;
+  font-weight: 900;
   line-height: 1.1;
   margin: 2.5rem 0 0.83333rem;
   text-rendering: optimizeLegibility;
@@ -136,7 +136,7 @@ blockquote {
     display: block;
     font-size: 0.75em;
     font-style: normal;
-    font-weight: normal;
+    font-weight: 300;
     line-height: 1.5;
     margin-top: 1em;
 
@@ -151,7 +151,7 @@ dl {
 }
 
 dt {
-  font-weight: bold;
+  font-weight: 900;
 }
 
 dd {
@@ -171,7 +171,7 @@ li > ol {
 
 hr {
   border: 0;
-  border-bottom: 1px solid _palette(charcoal-light-75);
+  border-bottom: 1px solid #fff493;
   margin: 2.5em 0;
 }
 
@@ -192,18 +192,18 @@ caption {
 
 th,
 td {
-  border-bottom: 1px solid _palette(charcoal-light-75);
+  border-bottom: 1px solid #fff493;
   padding: 0.5em 5px;
 }
 
 th {
-  font-weight: bold;
+  font-weight: 900;
 }
 
 /* Form fields */
 label {
   display: inline-block;
-  font-weight: bold;
+  font-weight: 900;
   line-height: 1.5;
   margin-bottom: 0.25em;
 }
@@ -227,7 +227,7 @@ textarea {
   color: inherit;
   display: block;
   font-size: 16px;
-  font-weight: normal;
+  font-weight: 300;
   line-height: 1.5;
   max-width: 100%;
   padding: 0.75em 0;
@@ -307,7 +307,7 @@ option {
   position: relative;
 
   label {
-    font-weight: normal;
+    font-weight: 300;
   }
 
   input[type=checkbox] {
@@ -353,7 +353,7 @@ input[type="reset"],
   color: _palette(accent);
   display: inline-block;
   font-size: 16px;
-  font-weight: bold;
+  font-weight: 900;
   line-height: 1.2;
   padding: 0.7125em 1.875em;
   text-align: center;
@@ -381,7 +381,7 @@ button {
       border: 2px solid _palette(accent);
       box-sizing: border-box;
       content: "";
-      height: 32%;
+      height: 20%;
       left: 0;
       position: absolute;
       transition: .3s ease;
@@ -466,7 +466,7 @@ img {
   position: relative;
 
   &:before {
-    border-left: 45px solid _palette(accent);
+    border-left: 0px solid _palette(accent);
     content: "";
     display: block;
     height: 3px;

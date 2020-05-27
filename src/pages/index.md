@@ -21,7 +21,7 @@ sections:
     layout_style: mosaic
     projects_number: 6
     view_all_label: View All
-    view_all_url: portfolio/index.html
+    view_all_url: recipe/index.html
   - type: section_grid
     template: section_grid
     title: What We Do
@@ -81,7 +81,7 @@ sections:
     col_number: three
     actions:
       - label: View Blog
-        url: blog/index.html
+        url: article/index.html
         type: button
 template: advanced
 ---

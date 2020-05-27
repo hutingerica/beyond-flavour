@@ -9,7 +9,7 @@ dataDir: src/data
 pagesDir: src/pages
 pageLayoutKey: template
 metadata:
-  title: Exto
+  title: Beyond Flavour
   description: A portfolio theme with a blog
   author: Stackbit
   authorURL: 'https://www.stackbit.com'
@@ -60,12 +60,12 @@ models:
         label: Accent Color
         description: The accent color of the site.
         options:
-          - pink
+          - gray
           - green
           - blue
           - violet
           - yellow
-        default: pink
+        default: gray
       - type: object
         name: header
         label: Header Configuration
@@ -150,9 +150,9 @@ models:
             - section_testimonials
   blog:
     type: page
-    label: Blog
+    label: Article
     layout: blog
-    file: blog/index.md
+    file: article/index.md
     hideContent: true
     singleInstance: true
     fields:
@@ -184,9 +184,9 @@ models:
         required: true
   portfolio:
     type: page
-    label: Portfolio
+    label: Recipe
     layout: portfolio
-    file: portfolio/index.md
+    file: recipe/index.md
     hideContent: true
     singleInstance: true
     fields:
@@ -215,7 +215,7 @@ models:
     type: page
     label: Page
     layout: page
-    exclude: posts/**
+    exclude: articles/**
     fields:
       - type: string
         name: title
@@ -236,9 +236,9 @@ models:
         description: The image shown below the page title and subtitle.
   post:
     type: page
-    label: Post
+    label: Article
     layout: post
-    folder: posts
+    folder: articles
     fields:
       - type: string
         name: title
@@ -267,9 +267,9 @@ models:
         description: The excerpt of the post displayed in the blog feed and in meta data.
   project:
     type: page
-    label: Project
+    label: Recipe
     layout: project
-    folder: projects
+    folder: recipes
     fields:
       - type: string
         name: title
