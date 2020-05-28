@@ -5,6 +5,10 @@ admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/5ece7b6f18d252001249683d/webhook/forestry
 sections:
 - type: document
+  path: src/pages/article/index.md
+  label: Article-page
+  match: "**/*"
+- type: document
   path: site-metadata.json
   label: Site Configuration
   templates:
@@ -14,9 +18,13 @@ sections:
   label: Page
   create: documents
   match: "**/*"
-  exclude: "{articles/**,recipes/**}"
+  exclude: "{articles/**,recipes/**, recipe/index.md, article/index.md}"
   templates:
   - page
+- type: document
+  path: src/pages/recipe/index.md
+  label: Recipe-page
+  match: "**/*"
 - type: directory
   path: src/pages/articles
   label: Articles
