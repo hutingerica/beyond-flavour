@@ -9,16 +9,6 @@ sections:
   label: Site Configuration
   templates:
   - config
-- type: document
-  path: src/pages/article/index.md
-  label: Article
-  templates:
-  - blog
-- type: document
-  path: src/pages/recipe/index.md
-  label: Recipe
-  templates:
-  - portfolio
 - type: directory
   path: src/pages
   label: Page
@@ -29,14 +19,14 @@ sections:
   - page
 - type: directory
   path: src/pages/articles
-  label: Article
+  label: Articles
   create: all
   match: "**/*"
   templates:
   - post
 - type: directory
   path: src/pages/recipes
-  label: Recipe
+  label: Recipes
   create: all
   match: "**/*"
   templates:
