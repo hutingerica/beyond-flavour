@@ -1,7 +1,9 @@
 ---
 title: Article
-subtitle: 'News, tips and highlights'
+subtitle: Inspirations, thoughts and anything
 hide_title: false
-col_number: three
+col_number: two
 template: blog
+excerpt: ''
+
 ---
