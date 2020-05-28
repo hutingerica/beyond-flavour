@@ -8,6 +8,15 @@ fields:
   description: The title of the page.
   config:
     required: true
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
 - type: text
   name: subtitle
   label: Subtitle
