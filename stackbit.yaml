@@ -210,7 +210,7 @@ models:
         options:
           - mosaic
           - tiles
-        default: mosaic
+        default: tiles
   page:
     type: page
     label: Page
@@ -385,7 +385,7 @@ models:
         options:
           - two
           - three
-        default: three
+        default: two
         required: true
       - type: boolean
         name: is_numbered
@@ -428,7 +428,7 @@ models:
         options:
           - mosaic
           - tiles
-        default: mosaic
+        default: tiles
         required: true
       - type: number
         name: projects_number
@@ -463,7 +463,7 @@ models:
         options:
           - two
           - three
-        default: three
+        default: two
         required: true
       - type: list
         name: actions
@@ -487,7 +487,7 @@ models:
         options:
           - two
           - three
-        default: three
+        default: two
         required: true
       - type: list
         name: testimonials
