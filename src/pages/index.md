@@ -19,7 +19,7 @@ sections:
   view_all_url: recipe/index.html
 - type: section_posts
   template: section_posts
-  title: Latest articles
+  title: Latest inspiration
   section_id: latest-posts
   subtitle: An optional subtitle of the section
   posts_number: '2'
