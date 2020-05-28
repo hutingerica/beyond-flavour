@@ -6,7 +6,7 @@ sections:
   template: section_hero
   title: Let's make dumplings in 100 ways
   section_id: hero
-  content: "![](/images/inspiration.svg)![](/images/inspiration.svg)"
+  content: ''
   actions: []
 - type: section_portfolio
   template: section_portfolio
