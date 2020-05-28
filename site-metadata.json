@@ -1,5 +1,11 @@
 {
+  "title": "& Beyond Flavour",
+  "description": "A portfolio theme with a blog",
+  "color_scheme": "light",
+  "accent_color": "",
+  "header": {
     "title": "& Beyond Flavour",
+<<<<<<< HEAD
     "description": "A portfolio theme with a blog",
     "color_scheme": "light",
     "accent_color": "gray",
@@ -82,3 +88,68 @@
         ]
     }
 }
+=======
+    "has_nav": true,
+    "nav_links": [
+      {
+        "label": "Home",
+        "url": "/",
+        "type": "link"
+      },
+      {
+        "label": "About",
+        "url": "/about/",
+        "type": "link"
+      },
+      {
+        "label": "Recipe",
+        "url": "/recipe/",
+        "type": "link"
+      },
+      {
+        "label": "Article",
+        "url": "/article/",
+        "type": "link"
+      },
+      {
+        "label": "Contact",
+        "url": "/contact/",
+        "type": "link"
+      },
+      {
+        "label": "Style Guide",
+        "url": "/style-guide/",
+        "type": "link"
+      }
+    ]
+  },
+  "footer": {
+    "content": "&copy; & Beyond Flavour. All rights reserved.",
+    "links": [
+      {
+        "label": "Made with Stackbit.",
+        "url": "https://www.stackbit.com",
+        "type": "link",
+        "new_window": true
+      }
+    ],
+    "has_social": true,
+    "social_links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/",
+        "type": "icon",
+        "icon_class": "fa-instagram",
+        "new_window": true
+      },
+      {
+        "label": "Github",
+        "url": "https://dribbble.com/",
+        "type": "icon",
+        "icon_class": "fa-github",
+        "new_window": true
+      }
+    ]
+  }
+}
+>>>>>>> e7d72259caab07fe6088c479c9a3c185fddeaa89
