@@ -4,53 +4,50 @@ auto_deploy: false
 admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/5ece7b6f18d252001249683d/webhook/forestry
 sections:
-  - type: document
-    label: Site Configuration
-    path: site-metadata.json
-    templates:
-      - config
-  - type: directory
-    path: src/pages
-    match: '**/*'
-    exclude: '{article/index.md,recipe/index.md}'
-    label: Advanced Page
-    create: all
-    templates:
-      - advanced
-  - type: document
-    label: Article
-    path: src/pages/article/index.md
-    templates:
-      - blog
-  - type: document
-    label: Recipe
-    path: src/pages/recipe/index.md
-    templates:
-      - portfolio
-  - type: directory
-    path: src/pages
-    match: '**/*'
-    exclude: '{articles/**,article/index.md,recipe/index.md}'
-    label: Page
-    create: all
-    templates:
-      - page
-  - type: directory
-    path: src/pages/articles
-    match: '**/*'
-    label: Article
-    create: all
-    templates:
-      - post
-  - type: directory
-    path: src/pages/recipes
-    match: '**/*'
-    label: Recipe
-    create: all
-    templates:
-      - project
+- type: document
+  path: site-metadata.json
+  label: Site Configuration
+  templates:
+  - config
+- type: document
+  path: src/pages/article/index.md
+  label: Article
+  templates:
+  - blog
+- type: document
+  path: src/pages/recipe/index.md
+  label: Recipe
+  templates:
+  - portfolio
+- type: directory
+  path: src/pages
+  label: Page
+  create: all
+  match: "**/*"
+  exclude: "{articles/**,article/index.md,recipe/index.md}"
+  templates:
+  - page
+- type: directory
+  path: src/pages/articles
+  label: Article
+  create: all
+  match: "**/*"
+  templates:
+  - post
+- type: directory
+  path: src/pages/recipes
+  label: Recipe
+  create: all
+  match: "**/*"
+  templates:
+  - project
 upload_dir: static/images
-public_path: /images
+public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
-file_template: ':filename:'
+file_template: ":filename:"
+build:
+  install_dependencies_command: npm install
+  preview_docker_image: node:10
+  mount_path: "/srv"
+  instant_preview_command: npm run forestry:preview
