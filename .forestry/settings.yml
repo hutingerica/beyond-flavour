@@ -24,7 +24,7 @@ sections:
   label: Page
   create: all
   match: "**/*"
-  exclude: "{articles/**,recipes/**,article/index.md,recipe/index.md}"
+  exclude: "{articles/**,recipes/**}"
   templates:
   - page
 - type: directory
