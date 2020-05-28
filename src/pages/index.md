@@ -19,11 +19,11 @@ sections:
   view_all_url: recipe/index.html
 - type: section_posts
   template: section_posts
-  title: Latest from the Blog
+  title: Latest articles
   section_id: latest-posts
   subtitle: An optional subtitle of the section
-  posts_number: 3
-  col_number: three
+  posts_number: '2'
+  col_number: two
   actions:
   - label: View Blog
     url: article/index.html
