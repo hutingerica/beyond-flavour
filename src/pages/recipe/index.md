@@ -1,6 +1,8 @@
 ---
 title: Recipe
 subtitle: This is an optional subtitle for the portfolio page.
-layout_style: mosaic
+layout_style: tiles
 template: portfolio
+excerpt: ''
+
 ---
