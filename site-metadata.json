@@ -59,10 +59,10 @@
         "new_window": true
       },
       {
-        "label": "Git",
+        "label": "Github",
         "url": "https://dribbble.com/",
         "type": "icon",
-        "icon_class": "fa-git",
+        "icon_class": "fa-github",
         "new_window": true
       }
     ]
