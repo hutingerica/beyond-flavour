@@ -1,5 +1,5 @@
 ---
-title: this is recipe 001
+title: 001 / Pork & Basil
 subtitle: Optional Project Subtitle
 date: 2019-05-10
 thumb_image: images/1_thumb.jpg
