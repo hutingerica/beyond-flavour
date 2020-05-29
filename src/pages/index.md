@@ -16,7 +16,7 @@ sections:
   layout_style: mosaic
   projects_number: 4
   view_all_label: View All
-  view_all_url: recipe/index.html
+  view_all_url: recipe/.html
 - type: section_posts
   template: section_posts
   title: Latest inspiration
@@ -25,8 +25,8 @@ sections:
   posts_number: '2'
   col_number: two
   actions:
-  - label: View Blog
-    url: article/index.html
+  - label: View Ariticles
+    url: article/.html
     type: button
     icon_class: ''
     new_window: false
