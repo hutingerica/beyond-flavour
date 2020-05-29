@@ -38,6 +38,25 @@
   }
 }
 
+.social-links-menu {
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  font-size: 14px;
+  line-height: 1.2;
+  margin: 1.25em 0 1.25em 0;
+
+  .button {
+    font-size: inherit;
+    padding: 0.275em 0.5em;
+  }
+}
+
 .site-info {
   .copyright,
   a {
@@ -45,7 +64,7 @@
   }
 }
 
-.social-links {
+.social-links, .social-links-menu {
   a {
     margin: 0 20px 0.25em 0;
 

@@ -27,6 +27,20 @@
   }
 }
 
+.site-menu-branding {
+  -webkit-box-flex: 0;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  position: absolute;
+    left: 3vw;
+    top: 1rem;
+
+  a {
+    border: 0;
+    color: inherit !important;
+  }
+}
+
 .site-logo {
   margin: 0;
 
@@ -78,7 +92,7 @@
 }
 
 @media only screen and (min-width: 801px) {
-  .menu-toggle {
+  .menu-toggle, .site-menu-branding {
     display: none;
   }
 
@@ -165,7 +179,7 @@
   }
 
   .menu-item {
-    border-top: 1px solid _palette(charcoal-light-75);
+    /*border-top: 1px solid _palette(charcoal-light-75);*/
     display: block;
 
     &:not(.menu-button):last-child {
