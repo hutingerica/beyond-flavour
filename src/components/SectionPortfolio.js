@@ -13,16 +13,16 @@ export default class SectionPortfolio extends React.Component {
             <section id={_.get(section, 'section_id')} className="block-portfolio block outer">
               <div className="inner">
                 {(_.get(section, 'title') || _.get(section, 'subtitle')) && 
-                <div className="block-header inner-sm">
+                <div className="block-header inner">
                   {_.get(section, 'title') && 
-                  <h2 className="block-title line-top">{_.get(section, 'title')}</h2>
+                  <h4 className="block-section-title line-top">{_.get(section, 'title')}</h4>
                   }
                   {_.get(section, 'subtitle') && 
                   <p className="block-subtitle">{htmlToReact(_.get(section, 'subtitle'))}</p>
                   }
                 </div>
                 }
-                <div className="block-content">
+                <div className="block-content inner">
                   <div className={'portfolio-feed layout-' + _.get(section, 'layout_style')}>
                     {
                     _.map(recent_projects, (post, post_idx) => (

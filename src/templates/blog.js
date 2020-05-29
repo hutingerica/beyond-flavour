@@ -11,7 +11,7 @@ export default class Blog extends React.Component {
         return (
             <Layout {...this.props}>
             <div className="inner outer">
-              <header className={classNames('page-header', 'inner-sm', {'screen-reader-text': _.get(this.props, 'pageContext.frontmatter.hide_title')})}>
+              <header className={classNames('page-header', 'inner-sm-left', {'screen-reader-text': _.get(this.props, 'pageContext.frontmatter.hide_title')})}>
                 <h1 className="page-title line-top">{_.get(this.props, 'pageContext.frontmatter.title')}</h1>
                 {_.get(this.props, 'pageContext.frontmatter.subtitle') && 
                 <div className="page-subtitle">

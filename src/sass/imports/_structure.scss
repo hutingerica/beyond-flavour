@@ -15,7 +15,19 @@
 .inner-sm {
   margin-left: auto;
   margin-right: auto;
-  max-width: 1140px;
+  max-width: 750px;
+}
+
+.inner-sm-left {
+  margin-left: 0;
+  margin-right: auto;
+  max-width: 750px;
+}
+
+.inner-sm-right {
+  margin-left: auto;
+  margin-right: 0;
+  max-width: 750px;
 }
 
 .site {
@@ -25,8 +37,8 @@
 }
 
 .site-content {
-  padding-bottom: 5em;
-  padding-top: 5em;
+  padding-bottom: 6em;
+  padding-top: 6em;
 }
 
 @media only screen and (max-width: 600px) {

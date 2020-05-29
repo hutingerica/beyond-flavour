@@ -7,7 +7,7 @@
 
 .page-header,
 .post-header {
-  margin-bottom: 2.5em;
+  margin-bottom: 2em;
 }
 
 .page-title,
@@ -17,12 +17,12 @@
 
 .page-subtitle,
 .post-subtitle {
-  color: _palette(charcoal-light-40);
-  margin-top: 0.5em;
+  color: _palette(charcoal);
+  margin-top: 0.75em;
 }
 
 .post-subtitle {
-  font-size: 1.33333em;
+  font-size: 1em;
   line-height: 1.5;
 }
 
@@ -54,7 +54,7 @@
 .post-thumbnail {
   border: 0;
   display: block;
-  margin-bottom: 1.33333em;
+  margin-bottom: 0.83333em;
   position: relative;
   width: 100%;
 

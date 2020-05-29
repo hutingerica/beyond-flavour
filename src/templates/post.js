@@ -11,7 +11,7 @@ export default class Post extends React.Component {
             <Layout {...this.props}>
             <div className="inner outer">
               <article className="post post-full">
-                <header className="post-header inner-sm">
+                <header className="post-header inner-sm-left">
                   <h1 className="post-title line-top">{_.get(this.props, 'pageContext.frontmatter.title')}</h1>
                   {_.get(this.props, 'pageContext.frontmatter.subtitle') && 
                   <div className="post-subtitle">

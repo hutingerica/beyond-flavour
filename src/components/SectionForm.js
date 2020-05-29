@@ -8,7 +8,7 @@ export default class SectionForm extends React.Component {
     render() {
         let section = _.get(this.props, 'section');
         return (
-            <section id={_.get(section, 'section_id')} className="block block-form outer">
+            <section id={_.get(section, 'section_id')} className="block-form outer">
               <div className="inner">
                 {(_.get(section, 'title') || _.get(section, 'subtitle')) && 
                 <div className="block-header inner-sm">

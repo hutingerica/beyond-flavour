@@ -11,7 +11,7 @@ export default class SectionContent extends React.Component {
             <section id={_.get(section, 'section_id')} className="block block-text outer">
               <div className="inner">
                 {(_.get(section, 'title') || _.get(section, 'subtitle')) && 
-                <div className="block-header inner-sm">
+                <div className="block-header inner-sm-left">
                   {_.get(section, 'title') && 
                   <h2 className="block-title line-top">{_.get(section, 'title')}</h2>
                   }

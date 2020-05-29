@@ -10,7 +10,7 @@ export default class Portfolio extends React.Component {
         return (
             <Layout {...this.props}>
             <div className="inner outer">
-              <header className="page-header inner-sm">
+              <header className="page-header inner-sm-left">
                 <h1 className="page-title line-top">{_.get(this.props, 'pageContext.frontmatter.title')}</h1>
                 {_.get(this.props, 'pageContext.frontmatter.subtitle') && 
                 <p className="page-subtitle">{_.get(this.props, 'pageContext.frontmatter.subtitle')}</p>

@@ -2,12 +2,12 @@
  * Sections
  */
 .block {
-  padding-top: 5em;
+  padding-top: 3em;
 }
 
 .block:first-child,
 .page-header + .block {
-  padding-top: 0;
+  padding-top: 3em;
 }
 
 .block-image {
@@ -15,17 +15,23 @@
 }
 
 .block-header {
-  margin-bottom: 2.5em;
+  margin-bottom: 0em;
 }
 
 .block-title {
   font-size: 1.66667em;
-  margin: 0;
+  margin: 0.5em 0 0.5em 0;
+}
+
+.block-section-title {
+  font-weight: 300;
+  padding-bottom: 0.5em;  
+  border-bottom: 1px solid _palette(charcoal-dark-15);
 }
 
 .block-subtitle {
   color: _palette(charcoal-light-40);
-  font-size: 0.88889em;
+  font-size: 0;
   line-height: 1.5;
   margin: 0.5em 0 0;
 }
@@ -44,7 +50,7 @@
 
   a {
     font-size: 16px;
-    font-weight: 900;
+    font-weight: 700;
     margin-bottom: 0.9375em;
     margin-right: 20px;
 
@@ -59,7 +65,7 @@
   box-sizing: border-box;
   display: inline-block;
   font-size: 1.33333em;
-  font-weight: 900;
+  font-weight: 700;
   line-height: 1.5;
   margin-bottom: 1em;
   padding: 0.58333em 0;
@@ -101,7 +107,7 @@
 /* Hero section */
 .block-hero {
   .block-header {
-    margin-bottom: 0.83333em;
+    margin-bottom: 6em;
   }
 
   .block-title {
@@ -112,10 +118,10 @@
 /* Portfolio section */
 .view-all-button {
   box-sizing: border-box;
-  color: _palette(accent);
+  color: #fff;
   display: inline-block;
   font-size: 16px;
-  font-weight: 900;
+  font-weight: 700;
   line-height: 1.2;
   padding: 0.9em 1em;
   left: 50%;
@@ -127,7 +133,7 @@
 
   &:before,
   &:after {
-    border: 2px solid _palette(accent);
+    border: 1px solid #fff;
     box-sizing: border-box;
     content: "";
     height: 20%;
@@ -199,7 +205,7 @@
 
 .testimonial-author {
   font-size: 0.88889em;
-  font-weight: 900;
+  font-weight: 700;
   margin: 0;
 }
 
@@ -209,7 +215,7 @@
   }
 
   .block-header {
-    margin-bottom: 2em;
+    margin-bottom: 0em;
   }
 
   .block-hero {

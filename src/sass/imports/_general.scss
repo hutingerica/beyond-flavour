@@ -38,65 +38,55 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 900;
-  text-rendering: optimizeLegibility;
 
-  &:first-child {
+  font-weight: 700;
+  text-rendering: optimizeLegibility;
+  line-height: 1.1;
+  margin: 2.5rem 0 0.83333rem;
+  
+   &:first-child {
     margin-top: 0;
   }
 }
 
 h1 {
-  font-size: 4.22222222em;
-  line-height: 1.06578947em;
-  margin-top: 0.35526316em;
-  margin-bottom: 0.71052632em;
+  font-size: 2.44444em;
+
 }
 
 h2 {
-  font-size: 2.61111111em;
-  line-height: 1.14893617em;
-  margin-top: 0.57446809em;
-  margin-bottom: 0.57446809em;
+  font-size: 2em;
+
 }
 
 h3 {
-  font-size: 1.61111111em;
-  line-height: 1.86206897em;
-  margin-top: 0.93103448em;
-  margin-bottom: 0em;
+  font-size: 1.66667em;
+
 }
 
 h4 {
-  font-size: 1em;
-  line-height: 1.5em;
-  margin-top: 1.5em;
-  margin-bottom: 0em;
+  font-size: 1.33333em;
+
 }
 
 h5 {
-  font-size: 1em;
-  line-height: 1.5em;
-  margin-top: 1.5em;
-  margin-bottom: 0em;
+  font-size: 1.11111em;
+
 }
 
 h6 {
   font-size: 1em;
-  line-height: 1.5em;
-  margin-top: 1.5em;
-  margin-bottom: 0em;
+
 }
 
 p {
-  margin-top: 0em;
-  margin-bottom: 1.5em;
+  margin: 0 0 1.66667em;
+
 }
 
 address {
   font-style: italic;
-  margin-top: 0em;
-  margin-bottom: 1.5em;
+  margin: 0 0 1.66667em;
 }
 
 mark,
@@ -123,8 +113,8 @@ pre {
 }
 
 blockquote {
-  font-size: 1.5em;
-  line-height: 1.5;
+  font-size: 1.66667em;
+  line-height: 1.3;
   margin: 1.5em 0;
   padding-left: 1.5em;
   position: relative;
@@ -136,9 +126,9 @@ blockquote {
   &:before {
     color: _palette(accent);
     content: "\201C";
-    font-size: 2.61111111em;
+    font-size: 2.5em;
     left: 0;
-    line-height: 1.14893617em;
+    line-height: 1;
     position: absolute;
     top: 0;
   }
@@ -171,7 +161,7 @@ dl {
 }
 
 dt {
-  font-weight: 900;
+  font-weight: 700;
 }
 
 dd {
@@ -217,7 +207,7 @@ td {
 }
 
 th {
-  font-weight: 900;
+  font-weight: 700;
 }
 
 /* Form fields */
@@ -286,7 +276,7 @@ option {
 }
 
 .form-submit {
-  margin-top: 1.66667em;
+  margin-top: 1.33333em;
 }
 
 .form-select-wrap {
@@ -367,13 +357,13 @@ input[type="button"],
 input[type="reset"],
 .button {
   background: 0;
-  border: 0.1875em solid _palette(accent);
+  border: 1px solid _palette(accent);
   border-radius: 0;
   box-sizing: border-box;
   color: _palette(accent);
   display: inline-block;
   font-size: 16px;
-  font-weight: 900;
+  font-weight: 700;
   line-height: 1.2;
   padding: 0.7125em 1.875em;
   text-align: center;
@@ -398,7 +388,7 @@ button {
 
     &:before,
     &:after {
-      border: 2px solid _palette(accent);
+      border: 1px solid _palette(accent);
       box-sizing: border-box;
       content: "";
       height: 20%;

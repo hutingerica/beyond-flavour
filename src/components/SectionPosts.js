@@ -14,9 +14,9 @@ export default class SectionPosts extends React.Component {
             <section id={_.get(section, 'section_id')} className="block block-posts outer">
               <div className="inner">
                 {(_.get(section, 'title') || _.get(section, 'subtitle')) && 
-                <div className="block-header inner-sm">
+                <div className="block-header inner">
                   {_.get(section, 'title') && 
-                  <h2 className="block-title line-top">{_.get(section, 'title')}</h2>
+                  <h4 className="block-section-title line-top">{_.get(section, 'title')}</h4>
                   }
                   {_.get(section, 'subtitle') && 
                   <p className="block-subtitle">{htmlToReact(_.get(section, 'subtitle'))}</p>
@@ -52,7 +52,7 @@ export default class SectionPosts extends React.Component {
                   </div>
                 </div>
                 {_.get(section, 'actions') && 
-                <div className="block-buttons inner-sm">
+                <div className="block-buttons inner">
                   <CtaButtons {...this.props} actions={_.get(section, 'actions')} />
                 </div>
                 }

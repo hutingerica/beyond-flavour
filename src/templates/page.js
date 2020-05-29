@@ -10,10 +10,10 @@ export default class Page extends React.Component {
             <Layout {...this.props}>
             <div className="inner outer">
               <article className="post post-full">
-                <header className="post-header inner-sm">
+                <header className="post-header inner-sm-left">
                   <h1 className="post-title line-top">{_.get(this.props, 'pageContext.frontmatter.title')}</h1>
                   {_.get(this.props, 'pageContext.frontmatter.subtitle') && 
-                  <div className="post-subtitle">
+                  <div className="post-subtitle inner-sm">
                     {htmlToReact(_.get(this.props, 'pageContext.frontmatter.subtitle'))}
                   </div>
                   }
@@ -23,7 +23,7 @@ export default class Page extends React.Component {
                   <img src={safePrefix(_.get(this.props, 'pageContext.frontmatter.image'))} alt={_.get(this.props, 'pageContext.frontmatter.title')} />
                 </div>
                 }
-                <div className="post-content inner-sm">
+                <div className="post-content inner-sm-right">
                   {htmlToReact(_.get(this.props, 'pageContext.html'))}
                 </div>
               </article>
