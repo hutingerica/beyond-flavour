@@ -78,6 +78,12 @@
   }
 }
 
+@media only screen and (min-width: 801px) {
+  .social-links-menu {
+    display: none;
+  }
+}
+
 @media only screen and (min-width: 601px) {
   .site-footer-inside {
     -webkit-box-align: start;
