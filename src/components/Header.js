@@ -11,26 +11,19 @@ export default class Header extends React.Component {
               <div className="inner">
                 <div className="site-header-inside">
                   <div className="site-branding">
-                    {_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img') ? 
                     <p className="site-logo">
                       <Link to={safePrefix('/')}><img src={safePrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img'))} alt={_.get(this.props, 'pageContext.site.siteMetadata.header.title')} /></Link>
                     </p>
-                     : 
-                    <p className="site-title"><Link to={safePrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.header.title')}</Link></p>
-                    }
+                    <p className="site-title">
+                      <Link to={safePrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.header.title')}</Link>
+                    </p>
                   </div>
                   {_.get(this.props, 'pageContext.site.siteMetadata.header.has_nav') && <React.Fragment>
                   <button id="menu-open" className="menu-toggle"><span className="screen-reader-text">Close Menu</span><span className="icon-menu" aria-hidden="true" /></button>
                   <nav id="main-navigation" className="site-navigation" aria-label="Main Navigation">
                     <div className="site-nav-inside">
                       <div className="site-menu-branding">
-                      {_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img') ? 
-                      <p className="site-logo">
-                      <Link to={safePrefix('/')}><img src={safePrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img'))} alt={_.get(this.props, 'pageContext.site.siteMetadata.header.title')} /></Link>
-                      </p>
-                      : 
                       <p className="site-title"><Link to={safePrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.header.title')}</Link></p>
-                      }
                       </div>
                       <button id="menu-close" className="menu-toggle"><span className="screen-reader-text">Open Menu</span><span className="icon-close" aria-hidden="true" /></button>
                       <ul className="menu">
