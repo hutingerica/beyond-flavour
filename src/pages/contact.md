@@ -5,7 +5,8 @@ sections:
 - type: section_form
   template: section_form
   section_id: contact-form
-  content: ''
+  content: Hi there! Thank you so much for your interest. Please fill the contact
+    form below or send me an email at hutingstudio@gmail.com.
   form_id: contactForm
   form_action: "/thank-you"
   form_fields:
@@ -45,8 +46,7 @@ sections:
     is_required: false
   submit_label: Send Message
   title: ''
-  subtitle: Hi there! Thank you so much for your interest. Please fill the contact
-    form below or send me an email at hutingstudio@gmail.com.
+  subtitle: ''
 template: advanced
 excerpt: ''
 
