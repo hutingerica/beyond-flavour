@@ -37,7 +37,8 @@
         "url": "/style-guide/",
         "type": "link"
       }
-    ]
+    ],
+    "logo_img": "/images/logo.svg"
   },
   "footer": {
     "content": "&copy; & Beyond Flavour. All rights reserved.",
