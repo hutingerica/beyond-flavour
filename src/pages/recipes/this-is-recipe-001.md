@@ -2,8 +2,8 @@
 title: 001 / Pork & Basil
 subtitle: Optional Project Subtitle
 date: 2019-05-10
-thumb_image: images/1_thumb.jpg
-image: images/1.jpg
+thumb_image: "/images/img_0039.JPG"
+image: ''
 template: project
 
 ---
