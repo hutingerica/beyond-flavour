@@ -1,14 +1,16 @@
 /**
  * Sections
  */
-.block {
-  /*padding-top: 3em;*/
+ 
+/*.block {
+  padding-top: 3em;
 }
 
 .block:first-child,
 .page-header + .block {
-  /*padding-top: 3em;*/
+  padding-top: 3em;
 }
+*/
 
 .block-image {
   margin-bottom: 1.66667em;
@@ -216,7 +218,7 @@
 
 @media only screen and (max-width: 600px) {
   .block {
-    padding-top: 3.33333em;
+    /*padding-top: 3.33333em;*/
   }
 
   .block-header {
