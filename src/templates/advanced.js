@@ -10,6 +10,11 @@ export default class Advanced extends React.Component {
             {(!_.get(this.props, 'pageContext.frontmatter.hide_title')) && 
             <header className="page-header inner-sm outer">
               <h1 className="page-title line-top">{_.get(this.props, 'pageContext.frontmatter.title')}</h1>
+              {_.get(this.props, 'pageContext.frontmatter.subtitle') && 
+                  <div className="post-subtitle inner-sm">
+                    {htmlToReact(_.get(this.props, 'pageContext.frontmatter.subtitle'))}
+                  </div>
+              }
             </header>
             }
             {_.map(_.get(this.props, 'pageContext.frontmatter.sections'), (section, section_idx) => {
