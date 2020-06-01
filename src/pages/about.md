@@ -22,7 +22,7 @@ My challenge to zero-food-waste was began when I moved to Bristol. Inspired by t
 
 # My Philosophy
 
-#### Talk Less & Feel More - Enjoy a craft rhythm of dumpling making.
+#### Talk Less & Feel More - Enjoy a craft rhythm of cooking.
 
 Take a simple ingredient and turn it in gold. There is no definition of "perfection" and “gold”. It is a sensual creation of what it means to be yourself.
 
