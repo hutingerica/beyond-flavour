@@ -10,7 +10,7 @@ template: page
 excerpt: ''
 
 ---
-# What am I going to do
+###### What am I going to do
 
 #### Create 100 ways of making dumplings
 
@@ -20,13 +20,7 @@ As an avid foodie growing up in Tainan, a city in Taiwan with plenty heritage of
 
 My challenge to zero-food-waste was began when I moved to Bristol. Inspired by the communities here taking action and contributing to a more sustainable food system, I started to play with leftover or unused part of ingredients that showed how possible dumplings can be as a hero of eliminating waste. In addition, it is easy to freeze and thus preserve them, so I hope my site can be a place to co-create ideas of zero-waste cooking with anyone who care the issue and bring our environment and the places we love and live a better chance to carry on.
 
-          
-
-          
-
-          
-
-# My Philosophy
+###### My Philosophy
 
 #### Talk Less & Feel More - Enjoy a craft rhythm of cooking.
 
