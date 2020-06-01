@@ -8,6 +8,11 @@ fields:
   description: The title of the page.
   config:
     required: true
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: Subtitle
 - type: boolean
   name: hide_title
   label: Hide page title
