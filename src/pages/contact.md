@@ -1,7 +1,7 @@
 ---
 title: Contact
 subtitle: >-
- Hi there! Thank you so much for your interest. Please fill the contact form below or send me an email at hutingstudio@gmail.com.
+ Hi there! Thank you so much for your interest. Please fill the contact form below or send me an email at <a href=hutingstudio@gmail.com><mark>hutingstudio@gmail.com.</mark></a>
 
 hide_title: false
 sections:

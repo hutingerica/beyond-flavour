@@ -1,5 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
+import {htmlToReact} from '../utils';
+
 
 import components, {Layout} from '../components/index';
 
@@ -8,10 +10,10 @@ export default class Advanced extends React.Component {
         return (
             <Layout {...this.props}>
             {(!_.get(this.props, 'pageContext.frontmatter.hide_title')) && 
-            <header className="page-header inner-sm outer">
+            <header className="page-header inner">
               <h1 className="page-title line-top">{_.get(this.props, 'pageContext.frontmatter.title')}</h1>
               {_.get(this.props, 'pageContext.frontmatter.subtitle') && 
-                  <div className="post-subtitle inner-sm">
+                  <div className="page-subtitle inner-sm-left">
                     {htmlToReact(_.get(this.props, 'pageContext.frontmatter.subtitle'))}
                   </div>
               }
