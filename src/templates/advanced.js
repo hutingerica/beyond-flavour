@@ -10,7 +10,7 @@ export default class Advanced extends React.Component {
         return (
             <Layout {...this.props}>
             {(!_.get(this.props, 'pageContext.frontmatter.hide_title')) && 
-            <header className="page-header inner">
+            <header className="page-header inner-sm">
               <h1 className="page-title line-top">{_.get(this.props, 'pageContext.frontmatter.title')}</h1>
               {_.get(this.props, 'pageContext.frontmatter.subtitle') && 
                   <div className="page-subtitle inner-sm-left">
