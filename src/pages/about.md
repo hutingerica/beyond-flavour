@@ -12,7 +12,7 @@ excerpt: ''
 ---
 ###### _What am I going to do_
 
-#### Create 100 ways of making dumplings
+#### Create 100 ways of making a-ha dumplings
 
 As an avid foodie growing up in Tainan, a city in Taiwan with plenty heritage of Taiwanese street foods, I started my nostalgic journey at Bristol to make them into my own. One of my favourite and classical dish - Dumplings inspired me to experiment with seasonal and local ingredients. It brings me an opportunity to try creative combinations of dough skins, fillings, ways of preparing and sauces spontaneously. My hope with this site is to explore a-ha dumpling recipes that show how creative dumplings can be.
 
