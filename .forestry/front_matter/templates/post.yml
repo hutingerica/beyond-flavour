@@ -12,6 +12,9 @@ fields:
   name: subtitle
   label: Subtitle
   description: The text shown just below the post title.
+- name: published
+  type: boolean
+  label: Published
 - type: datetime
   name: date
   label: Date
