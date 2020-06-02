@@ -12,12 +12,6 @@ fields:
   name: subtitle
   label: Subtitle
   description: The text shown just below the page title.
-- name: published
-  type: boolean
-  label: Published
-  default: true
-  showOnly:
-    value: false
 - type: text
   name: excerpt
   label: Excerpt
