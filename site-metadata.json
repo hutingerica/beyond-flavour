@@ -15,7 +15,7 @@
       {
         "label": "About",
         "url": "/about/",
-        "type": "link"
+        "type": "button"
       },
       {
         "label": "Recipe",
