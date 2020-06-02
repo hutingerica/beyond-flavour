@@ -10,11 +10,11 @@ pagesDir: src/pages
 pageLayoutKey: template
 metadata:
   title: Beyond Flavour
-  description: A portfolio theme with a blog
-  author: Stackbit
-  authorURL: 'https://www.stackbit.com'
+  description: A playground aims to create 100 ways of making dumplings and share recipes leading zero-waste challenge
+  author: huting
+  authorURL: 'hutingstudio@gmail.com'
   images:
-    small: images/demo-256x192.png
+    small: images/img_0039.jpg
     large: images/demo-1024x768.png
 pageData:
   - pagePath: /
