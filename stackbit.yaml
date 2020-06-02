@@ -14,7 +14,7 @@ metadata:
   author: huting
   authorURL: 'hutingstudio@gmail.com'
   images:
-    small: images/img_0039.jpg
+    small: images/logo.png
     large: images/demo-1024x768.png
 pageData:
   - pagePath: /
