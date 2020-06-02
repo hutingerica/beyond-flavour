@@ -1,5 +1,5 @@
 ---
-title: 002 Colourful Dumplings
+title: 002 / Colourful Dumplings
 subtitle: Optional Project Subtitle
 date: 2019-04-30
 thumb_image: "/images/2_thumb.jpg"
