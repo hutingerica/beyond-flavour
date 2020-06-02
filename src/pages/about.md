@@ -1,5 +1,5 @@
 ---
-title: About
+title: "About \U0001F64B\U0001F3FB‍♀️"
 subtitle: Hi, I'm Erica. I’m a designer at Bristol who really loves foods and cooking.
   <mark>& Beyond Flavour</mark> was initially born with a sense of curiosity about
   the science behind cooking.  I love cooking for people I love and can't stop immersing
