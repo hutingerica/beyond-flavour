@@ -31,11 +31,6 @@
         "label": "Contact",
         "url": "/contact/",
         "type": "link"
-      },
-      {
-        "label": "Style Guide",
-        "url": "/style-guide/",
-        "type": "link"
       }
     ],
     "logo_img": "/images/logo.png"
