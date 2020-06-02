@@ -15,6 +15,9 @@ fields:
 - name: published
   type: boolean
   label: Published
+  default: true
+  showOnly:
+    value: false
 - type: text
   name: excerpt
   label: Excerpt
