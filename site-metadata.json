@@ -43,12 +43,7 @@
   "footer": {
     "content": "&copy; & Beyond Flavour. All rights reserved.",
     "links": [
-      {
-        "label": "Made with Stackbit.",
-        "url": "https://www.stackbit.com",
-        "type": "link",
-        "new_window": true
-      }
+
     ],
     "has_social": true,
     "social_links": [
