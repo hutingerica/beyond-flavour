@@ -236,7 +236,7 @@ models:
         description: The image shown below the page title and subtitle.
   post:
     type: page
-    label: Inspiration
+    label: Inspirations
     layout: post
     folder: inspirations
     fields:
