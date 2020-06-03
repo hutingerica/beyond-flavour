@@ -7,7 +7,7 @@ import {classNames, htmlToReact, getPages, Link, safePrefix} from '../utils';
 
 export default class Blog extends React.Component {
     render() {
-        let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/articles'), 'frontmatter.date', 'desc');
+        let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/inspirations'), 'frontmatter.date', 'desc');
         return (
             <Layout {...this.props}>
             <div className="inner outer">
