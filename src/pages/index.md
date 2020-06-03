@@ -6,8 +6,7 @@ sections:
   template: section_hero
   title: Let's make a-ha dumplings in 100 ways
   section_id: hero
-  content: "  \n![](/images/slice6-2x.png)     ![](/images/slice7-2x.png)     ![](/images/slice8-2x.png)
-    \    ![](/images/slice9-2x.png)     ![](/images/slice10-2x.png)"
+  content: ''
   actions: []
 - type: section_portfolio
   template: section_portfolio
