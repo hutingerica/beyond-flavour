@@ -126,7 +126,11 @@
   }
 
   .block-content-index {
-    margin-top: 3em;  
+    margin-top: 3em;
+
+    p {
+      margin: 0;
+    }  
     img {
       margin: 0.333333em;
     }
@@ -265,6 +269,7 @@
     .block-content-index {
       img{
         max-height: 2.7em;
+        margin: 0.15em;
       }
     }
   }
@@ -275,6 +280,7 @@
     .block-content-index {
       img{
         max-height: 2.4em;
+        margin: 0.15em;
       }
     }
   }
