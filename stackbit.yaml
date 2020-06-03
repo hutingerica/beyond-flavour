@@ -10,7 +10,7 @@ pagesDir: src/pages
 pageLayoutKey: template
 metadata:
   title: Beyond Flavour
-  description: A playground aims to create 100 ways of making dumplings and share recipes leading zero-waste challenge
+  description: A playground aims to create 100 ways of making a-ha dumplings 🥟 and share recipes leading zero-waste challenge
   author: huting
   authorURL: 'hutingstudio@gmail.com'
   images:
@@ -150,9 +150,9 @@ models:
             - section_testimonials
   blog:
     type: page
-    label: Article
+    label: Inspiration
     layout: blog
-    file: article/index.md
+    file: inspiration/index.md
     hideContent: true
     singleInstance: true
     fields:
@@ -215,7 +215,7 @@ models:
     type: page
     label: Page
     layout: page
-    exclude: articles/**
+    exclude: inspirations/**
     fields:
       - type: string
         name: title
@@ -236,9 +236,9 @@ models:
         description: The image shown below the page title and subtitle.
   post:
     type: page
-    label: Article
+    label: Inspiration
     layout: post
-    folder: articles
+    folder: inspirations
     fields:
       - type: string
         name: title

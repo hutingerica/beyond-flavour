@@ -37,11 +37,11 @@ fields:
   config:
     required: true
 pages:
-- src/pages/articles/function-of-design.md
-- src/pages/articles/games.md
-- src/pages/articles/green.md
-- src/pages/articles/interior-designer.md
-- src/pages/articles/street-photography.md
-- src/pages/articles/why-fonts-matter.md
-- src/pages/articles/working-from-home.md
-- src/pages/articles/workplace.md
+- src/pages/inspirations/function-of-design.md
+- src/pages/inspirations/games.md
+- src/pages/inspirations/green.md
+- src/pages/inspirations/interior-designer.md
+- src/pages/inspirations/street-photography.md
+- src/pages/inspirations/why-fonts-matter.md
+- src/pages/inspirations/working-from-home.md
+- src/pages/inspirations/workplace.md

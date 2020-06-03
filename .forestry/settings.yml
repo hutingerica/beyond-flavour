@@ -14,18 +14,18 @@ sections:
   label: Page
   create: documents
   match: "**/*"
-  exclude: "{articles/**,recipes/**, recipe/index.md, article/index.md}"
+  exclude: "{s/**,recipes/**, recipe/index.md, /index.md}"
   templates:
   - page
 - type: document
   path: src/pages/recipe/index.md
   label: Recipe-page
 - type: document
-  path: src/pages/article/index.md
-  label: Article-page
+  path: src/pages/inspiration/index.md
+  label: Inspiration-page
 - type: directory
-  path: src/pages/articles
-  label: Articles
+  path: src/pages/inspirations
+  label: Inspirations
   create: all
   match: "**/*"
   templates:
