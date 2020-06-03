@@ -36,12 +36,3 @@ fields:
   default: post
   config:
     required: true
-pages:
-- src/pages/articles/function-of-design.md
-- src/pages/articles/games.md
-- src/pages/articles/green.md
-- src/pages/articles/interior-designer.md
-- src/pages/articles/street-photography.md
-- src/pages/articles/why-fonts-matter.md
-- src/pages/articles/working-from-home.md
-- src/pages/articles/workplace.md
