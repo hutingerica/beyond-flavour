@@ -23,6 +23,12 @@
 .block-content {
   margin-top: 1em;
   margin-bottom: 8em;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 
   img {
     margin: 0.25em;
