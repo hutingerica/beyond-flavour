@@ -23,8 +23,8 @@
         "type": "link"
       },
       {
-        "label": "Article",
-        "url": "/article/",
+        "label": "Inspiration",
+        "url": "/inspiration/",
         "type": "link"
       }
     ],
@@ -33,7 +33,26 @@
   "footer": {
     "content": "&copy; & Beyond Flavour 2020. All rights reserved.",
     "links": [
-
+      {
+        "type": "link",
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "type": "link",
+        "label": "About",
+        "url": "/about/"
+      },
+      {
+        "type": "link",
+        "label": "Recipe",
+        "url": "/recipe/"
+      },
+      {
+        "type": "link",
+        "label": "Inspiration",
+        "url": "/inspiration/"
+      }
     ],
     "has_social": true,
     "social_links": [
