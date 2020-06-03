@@ -22,13 +22,11 @@
 
 .block-content {
   margin-right: 0;
+  margin-bottom: 8em;
 
-  p {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    align-items: center;
-
+  img {
+    margin-left: 1.5em;
+    margin-right: 0;
   }
 }
 
@@ -130,7 +128,7 @@
 .block-hero {
   .block-header {
     margin-top: 3em;
-    margin-bottom: 8em;
+    /*margin-bottom: 8em;*/
     margin-right: 7vw;
   }
 
