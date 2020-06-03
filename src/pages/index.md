@@ -25,8 +25,8 @@ sections:
   posts_number: '2'
   col_number: two
   actions:
-  - label: View Ariticles
-    url: article
+  - label: View Inspirations
+    url: inspiration
     type: button
     icon_class: ''
     new_window: false
