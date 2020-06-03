@@ -4,7 +4,7 @@ hide_title: true
 sections:
 - type: section_hero
   template: section_hero
-  title: Let's make a-ha dumplings in 100 ways
+  title: "Let's make a-ha dumplings \U0001F95F in 100 ways"
   section_id: hero
   content: ''
   actions: []
