@@ -20,21 +20,6 @@
   margin-bottom: 0em;
 }
 
-.block-content-index {
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  margin-top: 1em;
-  margin-bottom: 8em;
-
-  img {
-    margin: 0.25em;
-  }
-}
-
 .block-title {
   font-size: 1.66667em;
   margin: 0.5em 0 0.5em 0;
@@ -139,6 +124,21 @@
 
   .block-title {
     font-size: 2.44444em;
+  }
+
+  .block-content-index {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 1em;
+    margin-bottom: 8em;
+  
+    img {
+      margin: 0.333333em;
+    }
   }
 }
 
@@ -250,4 +250,11 @@
       font-size: 2.22222em;
     }
   }
+
+  .block-content-index {
+    img{
+      max-height: 2.7em;
+    }
+  }
+
 }
