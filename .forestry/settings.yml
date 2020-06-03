@@ -9,7 +9,7 @@ sections:
   label: Page
   create: all
   match: "**/*"
-  new_doc_ext: "{inspirations/**/*, recipes/**/*, recipe/index.md, inspiration/index.md}"
+  exclude: "{inspirations/**/*, recipes/**/*, recipe/index.md, inspiration/index.md}"
   templates:
   - page
 - type: document
@@ -17,14 +17,6 @@ sections:
   label: Site Configuration
   templates:
   - config
-- type: directory
-  path: src/pages
-  label: Page
-  create: documents
-  match: "**/*"
-  exclude: "{inspirations/**/*, recipes/**/*, recipe/**/*, article/**/*}"
-  templates:
-  - page
 - type: document
   path: src/pages/recipe/index.md
   label: Recipe-page
