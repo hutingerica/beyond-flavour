@@ -4,14 +4,6 @@ auto_deploy: false
 admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/5ece7b6f18d252001249683d/webhook/forestry
 sections:
-- type: directory
-  path: src/pages
-  label: Page
-  create: all
-  match: "**/*"
-  exclude: "{inspirations/**/*, recipes/**/*, recipe/index.md, inspiration/index.md}"
-  templates:
-  - page
 - type: document
   path: site-metadata.json
   label: Site Configuration
