@@ -10,8 +10,8 @@ sections:
   templates:
   - config
 - type: directory
-  path: src/pages/article/index.md
-  label: Page
+  path: src/pages
+  label: Pages
   create: all
   match: "**/*"
   exclude: "{inspirations/**/*, recipes/**/*, recipe/index.md, inspiration/index.md}"
