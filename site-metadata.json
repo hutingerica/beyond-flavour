@@ -26,11 +26,6 @@
         "label": "Article",
         "url": "/article/",
         "type": "link"
-      },
-      {
-        "label": "Contact",
-        "url": "/contact/",
-        "type": "link"
       }
     ],
     "logo_img": "/images/logo.png"
