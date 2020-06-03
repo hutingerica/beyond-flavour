@@ -14,7 +14,7 @@ sections:
   label: Page
   create: documents
   match: "**/*"
-  exclude: "{articles/**,recipes/**, recipe/index.md, article/index.md}"
+  exclude: "{inspirations/*,recipes/*, recipe/index.md, article/index.md}"
   templates:
   - page
 - type: document
@@ -22,10 +22,10 @@ sections:
   label: Recipe-page
 - type: document
   path: src/pages/article/index.md
-  label: Article-page
+  label: Inspiration-page
 - type: directory
   path: src/pages/articles
-  label: Articles
+  label: Inspirations
   create: all
   match: "**/*"
   templates:
