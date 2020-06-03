@@ -23,15 +23,15 @@
         "type": "link"
       },
       {
-        "label": "Inspiration",
-        "url": "/inspiration/",
+        "label": "Article",
+        "url": "/article/",
         "type": "link"
       }
     ],
     "logo_img": "/images/logo.png"
   },
   "footer": {
-    "content": "&copy; & Beyond Flavour. All rights reserved.",
+    "content": "&copy; & Beyond Flavour 2020. All rights reserved.",
     "links": [
 
     ],
