@@ -230,9 +230,11 @@
   margin: 0;
 }
 
-@media only screen and (max-width: 1440px) {
-  .block-header {
-    margin-right: 30vw;
+@media only screen and (min-width: 1024px) {
+  .block-hero {
+    .block-header {
+      margin-right: 30vw;
+    }
   }
 }
 
@@ -244,7 +246,6 @@
 
   .block-header {
     margin-bottom: 0em;
-    margin-right: 7vw;
   }
 
   .block-hero {
