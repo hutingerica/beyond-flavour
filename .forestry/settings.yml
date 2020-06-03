@@ -12,7 +12,7 @@ sections:
 - type: directory
   path: src/pages
   label: Pages
-  create: all
+  create: documents
   match: "**/*"
   exclude: "{inspirations/**/*, recipes/**/*, recipe/index.md, inspiration/index.md}"
   templates:
