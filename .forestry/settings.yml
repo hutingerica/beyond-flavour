@@ -21,10 +21,10 @@ sections:
   path: src/pages/recipe/index.md
   label: Recipe-page
 - type: document
-  path: src/pages/article/index.md
+  path: src/pages/inspiration/index.md
   label: Inspiration-page
 - type: directory
-  path: src/pages/articles
+  path: src/pages/inspirations
   label: Inspirations
   create: all
   match: "**/*"
