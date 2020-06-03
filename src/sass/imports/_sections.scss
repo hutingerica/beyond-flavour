@@ -230,6 +230,13 @@
   margin: 0;
 }
 
+@media only screen and (max-width: 1440px) {
+  .block-header {
+    margin-right: 30vw;
+  }
+}
+
+
 @media only screen and (max-width: 600px) {
   .block {
     /*padding-top: 3.33333em;*/
@@ -237,6 +244,7 @@
 
   .block-header {
     margin-bottom: 0em;
+    margin-right: 7vw;
   }
 
   .block-hero {
@@ -254,7 +262,7 @@
   }
 }
 
-@media only screen and (max-width: 350px) {
+@media only screen and (max-width: 400px) {
   .block-hero {
     .block-content-index {
       img{
