@@ -39,7 +39,7 @@ sections:
   - project
 upload_dir: ''
 public_path: https://res.cloudinary.com/dnxlxtcb7/image/upload
-front_matter_path: ''
+front_matter_path: " https://res.cloudinary.com/dnxlxtcb7/image/upload"
 use_front_matter_path: true
 file_template: ":filename:"
 build:
