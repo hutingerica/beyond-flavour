@@ -38,7 +38,7 @@
     "has_social": true,
     "social_links": [
       {
-        "type": "link",
+        "type": "icon",
         "label": "Youtube",
         "url": "https://www.youtube.com/channel/UCeA45RkVLtyBs2qhEiQV4VQ",
         "icon_class": "fa-youtube",
