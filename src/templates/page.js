@@ -4,7 +4,6 @@ import _ from 'lodash';
 import {Layout} from '../components/index';
 import {htmlToReact, safePrefix} from '../utils';
 
-const cloudinary_url = "https://res.cloudinary.com/dnxlxtcb7/image/upload"
 export default class Page extends React.Component {
     render() {
         return (
@@ -19,9 +18,9 @@ export default class Page extends React.Component {
                   </div>
                   }
                 </header>
-                {_.get(this.props, '{{ .Site.cloudinary_url }}/pageContext.frontmatter.image') && 
+                {_.get(this.props, 'pageContext.frontmatter.image') && 
                 <div className="post-image">
-                  <img src={safePrefix(_.get(this.props, '{{ .Site.cloudinary_url }}/pageContext.frontmatter.image'))} alt={_.get(this.props, 'pageContext.frontmatter.title')} />
+                  <img src={safePrefix(_.get(this.props, 'pageContext.frontmatter.image'))} alt={_.get(this.props, 'pageContext.frontmatter.title')} />
                 </div>
                 }
                 <div className="post-content inner-sm-right">
