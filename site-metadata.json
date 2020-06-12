@@ -41,7 +41,7 @@
         "type": "link",
         "label": "Youtube",
         "url": "https://www.youtube.com/channel/UCeA45RkVLtyBs2qhEiQV4VQ",
-        "icon_class": "youtube",
+        "icon_class": "fa-youtube",
         "new_window": true
       },
       {
