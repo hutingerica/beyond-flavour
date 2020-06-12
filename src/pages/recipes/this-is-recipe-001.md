@@ -2,12 +2,12 @@
 title: "[001] Turnip Gyoza"
 subtitle: ''
 date: 2020-06-11T12:00:00Z
-thumb_image: "/images/001-turnip-gyoza-thumb.png"
+thumb_image: "/v1591969567/001%20Turnip%20Gyoza/Website-Thumb.png"
 image: ''
 template: project
 
 ---
-![](/images/001-turnip-gyoza-content.png)
+![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turnip%20Gyoza/IMG_0167.jpg)![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turnip%20Gyoza/IMG_0166.jpg)
 
 > "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
 
