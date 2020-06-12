@@ -23,9 +23,9 @@ export default class Blog extends React.Component {
                 {_.map(display_posts, (post, post_idx) => (
                 <article key={post_idx} className="post grid-item">
                   <div className="post-inside">
-                    {_.get(post, '{{ cloudinary_url }}/frontmatter.thumb_image') && 
+                    {_.get(post, 'frontmatter.thumb_image') && 
                     <Link className="post-thumbnail" to={safePrefix(_.get(post, 'url'))}>
-                      <img src={safePrefix(_.get(post, 'https://res.cloudinary.com/dnxlxtcb7/image/upload/frontmatter.thumb_image'))} alt={_.get(post, 'frontmatter.title')} />
+                      <img src={safePrefix(_.get(post, 'frontmatter.thumb_image'))} alt={_.get(post, 'frontmatter.title')} />
                     </Link>
                     }
                     <header className="post-header">
