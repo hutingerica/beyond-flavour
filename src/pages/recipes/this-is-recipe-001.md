@@ -2,7 +2,7 @@
 title: 001 / Turnip Gyoza
 subtitle: ''
 date: 2020-06-04T12:00:00Z
-thumb_image: "/images/001-turnip-gyoza-thumb.jpg"
+thumb_image: "/images/001-turnip-gyoza.png"
 image: ''
 template: project
 
