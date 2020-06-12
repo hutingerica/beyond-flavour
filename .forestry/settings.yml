@@ -37,7 +37,7 @@ sections:
   match: "**/*"
   templates:
   - project
-upload_dir: ''
+upload_dir: https://res.cloudinary.com/dnxlxtcb7/image/upload
 public_path: https://res.cloudinary.com/dnxlxtcb7/image/upload
 front_matter_path: " https://res.cloudinary.com/dnxlxtcb7/image/upload"
 use_front_matter_path: true
