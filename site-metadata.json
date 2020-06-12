@@ -38,6 +38,13 @@
     "has_social": true,
     "social_links": [
       {
+        "type": "link",
+        "label": "Youtube",
+        "url": "https://www.youtube.com/channel/UCeA45RkVLtyBs2qhEiQV4VQ",
+        "icon_class": "youtube",
+        "new_window": true
+      },
+      {
         "label": "Instagram",
         "url": "https://instagram.com/n_beyond_flavour",
         "type": "icon",
