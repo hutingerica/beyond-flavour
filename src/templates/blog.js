@@ -5,6 +5,7 @@ import moment from 'moment-strftime';
 import {Layout} from '../components/index';
 import {classNames, htmlToReact, getPages, Link, safePrefix} from '../utils';
 
+const cloudinary_url = "https://res.cloudinary.com/dnxlxtcb7/image/upload"
 export default class Blog extends React.Component {
     render() {
         let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/inspirations'), 'frontmatter.date', 'desc');
@@ -23,9 +24,9 @@ export default class Blog extends React.Component {
                 {_.map(display_posts, (post, post_idx) => (
                 <article key={post_idx} className="post grid-item">
                   <div className="post-inside">
-                    {_.get(post, 'frontmatter.thumb_image') && 
+                    {_.get(post, '{{ .Site.cloudinary_url }}/frontmatter.thumb_image') && 
                     <Link className="post-thumbnail" to={safePrefix(_.get(post, 'url'))}>
-                      <img src={safePrefix(_.get(post, 'frontmatter.thumb_image'))} alt={_.get(post, 'frontmatter.title')} />
+                      <img src={safePrefix(_.get(post, '{{ .Site.cloudinary_url }}/frontmatter.thumb_image'))} alt={_.get(post, 'frontmatter.title')} />
                     </Link>
                     }
                     <header className="post-header">
