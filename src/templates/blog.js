@@ -25,14 +25,14 @@ export default class Blog extends React.Component {
                   <div className="post-inside">
                     {_.get(post, 'frontmatter.thumb_image') && 
                     <Link className="post-thumbnail" to={safePrefix(_.get(post, 'url'))}>
-                      <img src={safePrefix(_.get(post, 'frontmatter.thumb_image'))} alt={_.get(post, 'frontmatter.title')} />
+                      <img src={safePrefix(_.get(post, 'pageContext.frontmatter.thumb_image'))} alt={_.get(post, 'frontmatter.title')} />
                     </Link>
                     }
                     <header className="post-header">
                       <h2 className="post-title"><Link to={safePrefix(_.get(post, 'url'))} rel="bookmark">{_.get(post, 'frontmatter.title')}</Link></h2>
                       <div className="post-meta">
                         <time className="published"
-                          dateTime={moment(_.get(post, 'frontmatter.date')).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(post, 'frontmatter.date')).strftime('%B %d, %Y')}</time>
+                          dateTime={moment(_.get(post, 'pageContext.frontmatter.date')).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(post, 'frontmatter.date')).strftime('%B %d, %Y')}</time>
                       </div>
                     </header>
                     {_.get(post, 'frontmatter.excerpt') && 
