@@ -1,5 +1,5 @@
 ---
-title: 001 / Turnip Gyoza
+title: "[001] Turnip Gyoza"
 subtitle: ''
 date: 2020-06-11T12:00:00Z
 thumb_image: "/images/001-turnip-gyoza-thumb.png"
