@@ -4,6 +4,7 @@ import _ from 'lodash';
 import {Layout} from '../components/index';
 import {getPages, Link, safePrefix} from '../utils';
 
+const cloudinary_url = "https://res.cloudinary.com/dnxlxtcb7/image/upload"
 export default class Portfolio extends React.Component {
     render() {
         let display_projects = _.orderBy(getPages(this.props.pageContext.pages, '/recipes'), 'frontmatter.date', 'desc');
@@ -20,9 +21,9 @@ export default class Portfolio extends React.Component {
                 {_.map(display_projects, (post, post_idx) => (
                 <article key={post_idx} className="project">
                   <Link to={safePrefix(_.get(post, 'url'))} className="project-link">
-                    {_.get(post, 'frontmatter.thumb_image') && 
+                    {_.get(post, '{{ .Site.cloudinary_url }}/frontmatter.thumb_image') && 
                     <div className="project-thumbnail">
-                      <img src={safePrefix(_.get(post, 'frontmatter.thumb_image'))} alt={_.get(post, 'frontmatter.title')} />
+                      <img src={safePrefix(_.get(post, '{{ .Site.cloudinary_url }}/frontmatter.thumb_image'))} alt={_.get(post, 'frontmatter.title')} />
                     </div>
                     }
                     <header className="project-header">
