@@ -12,10 +12,17 @@ export default class Project extends React.Component {
               <article className="post post-full">
                 <header className="post-header inner-sm-left">
                   <h1 className="post-title line-top">{_.get(this.props, 'pageContext.frontmatter.title')}</h1>
+                  <div className="recipe-brief">
                   {_.get(this.props, 'pageContext.frontmatter.subtitle') && 
                   <p className="post-subtitle">
                     {_.get(this.props, 'pageContext.frontmatter.subtitle')}</p>
                   }
+                  {_.get(post, 'frontmatter.thumb_image') && 
+                    <div className="project-thumbnail">
+                      <img src={safePrefix(_.get(post, 'frontmatter.thumb_image'))} alt={_.get(post, 'frontmatter.title')} />
+                    </div>
+                  }
+                  </div>
                 </header>
                 {_.get(this.props, 'pageContext.frontmatter.image') && 
                 <div className="post-image">
