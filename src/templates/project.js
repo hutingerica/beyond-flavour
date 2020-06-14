@@ -17,18 +17,14 @@ export default class Project extends React.Component {
                   <p className="post-subtitle">
                     {_.get(this.props, 'pageContext.frontmatter.subtitle')}</p>
                   }
-                  {_.get(post, 'frontmatter.thumb_image') && 
-                    <div className="project-thumbnail">
-                      <img src={_.get(this.props, 'pageContext.frontmatter.thumb_image'))} alt={_.get(this.props, 'pageContext.frontmatter.title')} />
+                  {_.get(this.props, 'pageContext.frontmatter.image') && 
+                    <div className="post-image">
+                      <img src={safePrefix(_.get(this.props, 'pageContext.frontmatter.image'))} alt={_.get(this.props, 'pageContext.frontmatter.title')} />
                     </div>
                   }
                   </div>
                 </header>
-                {_.get(this.props, 'pageContext.frontmatter.image') && 
-                <div className="post-image">
-                  <img src={safePrefix(_.get(this.props, 'pageContext.frontmatter.image'))} alt={_.get(this.props, 'pageContext.frontmatter.title')} />
-                </div>
-                }
+                
                 <div className="post-content inner-sm">
                   {htmlToReact(_.get(this.props, 'pageContext.html'))}
                 </div>
