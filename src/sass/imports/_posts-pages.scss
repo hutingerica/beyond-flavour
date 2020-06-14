@@ -56,6 +56,12 @@
 .recipe-brief {
   display: flex;
   flex-wrap: wrap;
+  p {
+    flex:1;
+  }
+  .post-heroimage {
+    flex:2;
+  }
 }
 
 /* Post feed */

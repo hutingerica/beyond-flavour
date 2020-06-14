@@ -20,7 +20,7 @@ export default class Project extends React.Component {
                   }
 
                   {_.get(this.props, 'pageContext.frontmatter.image') && 
-                      <div className="post-image">
+                      <div className="post-heroimage">
                         <img src={safePrefix(_.get(this.props, 'pageContext.frontmatter.image'))} alt={_.get(this.props, 'pageContext.frontmatter.title')} />
                       </div>
                   }
