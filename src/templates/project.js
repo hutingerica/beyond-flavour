@@ -14,8 +14,7 @@ export default class Project extends React.Component {
                   <h1 className="post-title line-top">{_.get(this.props, 'pageContext.frontmatter.title')}</h1>
                   {_.get(this.props, 'pageContext.frontmatter.subtitle') && 
                   <p className="post-subtitle">
-                    {htmlToReact(_.get(this.props, 'pageContext.frontmatter.subtitle'))}
-                  </p>
+                    {_.get(this.props, 'pageContext.frontmatter.subtitle')}</p>
                   }
                 </header>
                 {_.get(this.props, 'pageContext.frontmatter.image') && 
