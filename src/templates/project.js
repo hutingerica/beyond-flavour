@@ -11,17 +11,20 @@ export default class Project extends React.Component {
             <div className="inner outer">
               <article className="post post-full">
                 <header className="post-header inner-sm-left">
+                  
                   <h1 className="post-title line-top">{_.get(this.props, 'pageContext.frontmatter.title')}</h1>
+                  
                   <div>
-                  {_.get(this.props, 'pageContext.frontmatter.subtitle') && 
-                  <p className="post-subtitle">
-                    {_.get(this.props, 'pageContext.frontmatter.subtitle')}</p>
-                  }
-                  {_.get(this.props, 'pageContext.frontmatter.image') && 
-                    <div className="post-image">
-                      <img src={safePrefix(_.get(this.props, 'pageContext.frontmatter.image'))} alt={_.get(this.props, 'pageContext.frontmatter.title')} />
-                    </div>
-                  }
+                    {_.get(this.props, 'pageContext.frontmatter.subtitle') && 
+                    <p className="post-subtitle">
+                      {_.get(this.props, 'pageContext.frontmatter.subtitle')}</p>
+                    }
+                    
+                    {_.get(this.props, 'pageContext.frontmatter.image') && 
+                      <div className="post-image">
+                        <img src={safePrefix(_.get(this.props, 'pageContext.frontmatter.image'))} alt={_.get(this.props, 'pageContext.frontmatter.title')} />
+                      </div>
+                    }
                   </div>
                 </header>
                 
