@@ -19,7 +19,7 @@ export default class Project extends React.Component {
                   }
                   {_.get(post, 'frontmatter.thumb_image') && 
                     <div className="project-thumbnail">
-                      <img src={safePrefix(_.get(post, 'frontmatter.thumb_image'))} alt={_.get(post, 'frontmatter.title')} />
+                      <img src={_.get(this.props, 'pageContext.frontmatter.thumb_image'))} alt={_.get(this.props, 'pageContext.frontmatter.title')} />
                     </div>
                   }
                   </div>
