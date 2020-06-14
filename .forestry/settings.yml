@@ -26,14 +26,14 @@ sections:
 - type: directory
   path: src/pages/inspirations
   label: Inspirations
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - post
 - type: directory
   path: src/pages/recipes
   label: Recipes
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - project
