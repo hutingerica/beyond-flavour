@@ -47,6 +47,7 @@
   border: 0;
   display: block;
   margin-bottom: 1.66667em;
+  margin-left: 0.83333em;
 
   img {
     width: 100%;
@@ -57,12 +58,11 @@
   display: flex;
   flex-wrap: wrap;
   p {
-    margin: 0;
+    margin: 0 0 1.66667em;
     flex:1.5;
   }
   .post-heroimage {
     flex:2;
-    margin-left: 0.83333em;
   }
 }
 
