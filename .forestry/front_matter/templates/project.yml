@@ -21,6 +21,12 @@ fields:
   label: Date
   config:
     required: true
+- name: cloudinary_url
+  type: text
+  config:
+    required: false
+  label: cloudinary_url
+  default: https://res.cloudinary.com/dnxlxtcb7/image/upload
 - type: file
   name: thumb_image
   label: Featured Image
