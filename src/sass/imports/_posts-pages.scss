@@ -154,9 +154,12 @@
 }
 
 @media only screen and (max-width: 600px) {
-  .page-header,
-  .post-header {
+  .page-header{
     margin-bottom: 5em;
+  }
+
+  .post-header {
+    margin-bottom: 1em;
   }
 
   .post-subtitle {
