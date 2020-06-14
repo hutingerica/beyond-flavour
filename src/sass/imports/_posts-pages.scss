@@ -53,6 +53,11 @@
   }
 }
 
+.recipe-brief {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 /* Post feed */
 .post-thumbnail {
   border: 0;

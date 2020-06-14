@@ -13,7 +13,7 @@ export default class Project extends React.Component {
                 <header className="post-header inner-sm-left">
                   <h1 className="post-title line-top">{_.get(this.props, 'pageContext.frontmatter.title')}</h1>
                 </header>
-                <div className="inner-sm">
+                <div className="recipe-brief inner-sm">
                   {_.get(this.props, 'pageContext.frontmatter.subtitle') && 
                     <p className="post-subtitle">
                       {_.get(this.props, 'pageContext.frontmatter.subtitle')}</p>
