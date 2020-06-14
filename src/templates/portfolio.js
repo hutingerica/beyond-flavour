@@ -22,7 +22,7 @@ export default class Portfolio extends React.Component {
                   <Link to={safePrefix(_.get(post, 'url'))} className="project-link">
                     {_.get(post, 'frontmatter.thumb_image') && 
                     <div className="project-thumbnail">
-                      <img src={safePrefix(_.get(post, '{{frontmatter.cloudinary_url}}/{{frontmatter.thumb_image}}'))} alt={_.get(post, 'frontmatter.title')} />
+                      <img src={safePrefix(_.get(post, 'frontmatter.thumb_image'))} alt={_.get(post, 'frontmatter.title')} />
                     </div>
                     }
                     <header className="project-header">
