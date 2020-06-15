@@ -16,18 +16,16 @@ image: "/v1591969565/001%20Turnip%20Gyoza/IMG_0167.jpg"
 
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969572/001%20Turnip%20Gyoza/Website-HeroContent.png)
 
-| 20mins |
-| --- |
-| * 3 cup Plain Flour |
-| * 1 cup Lukewarm Water |
-| 5 ml Oil |
-| 5g Salt |
+| ✋ 10mins <br> 🕙 20 mins |
+| ---                       |
+| `3 cup` Plain Flour |
+| `1 cup` Lukewarm Water |
+| `5 ml` Oil |
+| `5 g` Salt |
 
-| Tips over here |
+| 💡 Notes |
 | --- |
 | 1st Tip |
-| 2nd Tip |
-| 3rd Tip |
 
 # Filling
 
