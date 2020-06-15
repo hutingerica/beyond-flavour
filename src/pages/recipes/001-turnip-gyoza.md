@@ -10,8 +10,9 @@ thumb_image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969567/001%
 image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turnip%20Gyoza/IMG_0167.jpg"
 
 ---
-# Dough Skin
-***
+
+### Dough Skin
+---
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969572/001%20Turnip%20Gyoza/Website-HeroContent.png)
 
 | ✋ Playing Time: 10mins <br> 🕙 Resting Time: 20 mins |
@@ -26,11 +27,8 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 | 1st Tip |
 
 
-# Filling
-
+### Filling
 ---
-***
-
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)
 
 | ✋ Playing Time: 5mins <br> 🕙 No need to rest ! |
