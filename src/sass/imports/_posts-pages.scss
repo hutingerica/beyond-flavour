@@ -108,6 +108,10 @@
   table{
     flex:1;
     margin: 0.8333em 0.8333em;
+
+    &:first-child {
+      margin: 0;
+    }
   }
 
   @media only screen and (max-width: 800px) {
