@@ -29,5 +29,5 @@ image: "/v1591969565/001%20Turnip%20Gyoza/IMG_0167.jpg"
 
 # Filling
 
-|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg) | |
+|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg) |###### 10 mins ###### 20mins * 3 cup Plain Flour * 1 cup Lukewarm Water * 5 ml Oil * 5g Salt|
 |-----------|----------|
