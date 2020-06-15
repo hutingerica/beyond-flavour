@@ -83,6 +83,27 @@
   }
 }
 
+.inner-recipe-sm {
+  h4{
+    flex: 100%;
+    font-size: 1em;
+    font-weight: 300;
+    padding-bottom: 0.5em;
+  }
+
+  hr{
+    flex: 100%;
+  }
+
+  p{
+    flex: 10%;
+  }
+
+  table{
+    flex:1;
+  }
+}
+
 
 /* Post feed */
 .post-thumbnail {

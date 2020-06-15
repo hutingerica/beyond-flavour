@@ -56,22 +56,6 @@
   display: flex;
   flex-wrap: wrap;
 
-  h4{
-    flex: 100%;
-  }
-
-  hr{
-    flex: 100%;
-  }
-
-  p{
-    flex: 20%;
-  }
-
-  table{
-    flex:1;
-  }
-
   @media only screen and (max-width: 800px) {
     margin-left: auto;
     margin-right: auto;
