@@ -44,9 +44,10 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 
 #### Way to Prepare
 ---
+#### `Wrapper`
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)
 
-| Wrapper |
+| |
 | --- |
 | 1.Shape into donut and then divide it in half |
 | 2.Leave the rest one with kitchen towel covered |
@@ -59,10 +60,10 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 | --- |
 | Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried |
 
----
+#### `Make Gyoza`
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969567/001%20Turnip%20Gyoza/Website-Thumb.png)
 
-| Make Gyoza |
+| |
 | --- |
 | 1.Put the filling |
 | 2.Fold in half |
@@ -73,7 +74,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 | --- |
 | It's difficult to fold when you put too much filling. Dont forget to prepare a kitchen towel for Gyoza to prevent getting sticked on the surface |
 
----
+#### `Pan Fry Gyoza`
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0162.jpg)
 
 | Pan Fry Gyoza |
