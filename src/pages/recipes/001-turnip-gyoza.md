@@ -59,9 +59,24 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 | --- |
 | Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried |
 
-![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)
+---
+![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969567/001%20Turnip%20Gyoza/Website-Thumb.png)
 
 | Make Gyoza |
+| --- |
+| 1.Put the filling |
+| 2.Fold in half |
+| 3.Fold one side |
+| 4.Fold the other side |
+
+| `💡: Notes` |
+| --- |
+| It's difficult to fold when you put too much filling. Dont forget to prepare a kitchen towel for Gyoza to prevent getting sticked on the surface |
+
+---
+![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0162.jpg)
+
+| Pan Fry Gyoza |
 | --- |
 | 1.Put the filling |
 | 2.Fold in half |
