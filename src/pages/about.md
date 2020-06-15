@@ -1,6 +1,6 @@
 ---
 title: "About \U0001F64B\U0001F3FB‍♀️"
-subtitle: Hi, I'm Erica. I’m a designer at Bristol who really loves foods and cooking. `& Beyond Flavour` was initially born with a sense of curiosity about
+subtitle: Hi, I'm Erica. I’m a designer at Bristol who really loves foods and cooking. & Beyond Flavour was initially born with a sense of curiosity about
   the science behind cooking.  I love cooking for people I love and can't stop immersing
   myself in creating a-ha cuisines which slowly became a dream to share recipes that
   showed how delightful cooking can be.
