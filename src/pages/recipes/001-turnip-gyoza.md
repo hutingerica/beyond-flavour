@@ -38,7 +38,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 | `1 can` Tuna |
 | `up to you` Black Pepper |
 
-| `💡 Notes` |
+| Notes `: 💡💡💡` |
 | --- |
 | Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, <br> or of dough without filling. |
 
