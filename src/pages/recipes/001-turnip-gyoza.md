@@ -6,8 +6,8 @@ subtitle: Dumpling is a broad classification of dishes that consist of pieces of
   wrapped around a filling, or of dough without filling.
 excerpt: ''
 date: 2020-06-11T23:00:00Z
-thumb_image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969567/001%20Turnip%20Gyoza/Website-Thumb.png"
-image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turnip%20Gyoza/IMG_0167.jpg"
+thumb_image: "/v1591969567/001%20Turnip%20Gyoza/Website-Thumb.png"
+image: "/v1591969565/001%20Turnip%20Gyoza/IMG_0167.jpg"
 
 ---
 # Dough Skin
@@ -29,4 +29,5 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 
 # Filling
 
-![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)
+|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg) | |
+|-----------|----------|
