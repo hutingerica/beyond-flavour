@@ -24,7 +24,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 
 | 💡 Notes |
 | --- |
-| 1st Tip |
+| Dumpling is a broad classification of dishes that consist of pieces of dough |
 
 
 #### Filling
