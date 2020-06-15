@@ -22,7 +22,6 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 | `5 ml` Oil |
 | `5 g` Salt |
 
-|  <br> |
 | --- |
 | 💡 Notes |
 | Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, or of dough without filling. |
