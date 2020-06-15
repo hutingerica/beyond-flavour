@@ -14,7 +14,6 @@ image: "/v1591969565/001%20Turnip%20Gyoza/IMG_0167.jpg"
 
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969572/001%20Turnip%20Gyoza/Website-HeroContent.png)
 
-|10mins|
 |20mins|
 |------|
 |* 3 cup Plain Flour|
