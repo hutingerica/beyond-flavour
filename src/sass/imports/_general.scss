@@ -205,14 +205,15 @@ caption {
   text-align: left;
 }
 
-th,
 td {
   /*border-bottom: 1px solid #fff493;*/
-  padding: 0.5em 5px;
+  padding: 0.25em 0 0.25em 0em;
 }
 
 th {
   font-weight: 700;
+  line-height: 2;
+  padding: 0 0 1em;
 }
 
 /* Form fields */

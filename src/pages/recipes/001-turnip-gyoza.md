@@ -15,7 +15,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 ---
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969572/001%20Turnip%20Gyoza/Website-HeroContent.png)
 
-| ✋ Playing Time: 10mins <br> 🕙 Resting Time: 20 mins |
+| ✋ `10mins` Playing Time <br> 🕙 `20 mins` Resting Time |
 | --- |
 | `3 cup` Plain Flour |
 | `1 cup` Lukewarm Water |
