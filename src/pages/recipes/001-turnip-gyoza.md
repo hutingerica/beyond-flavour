@@ -15,7 +15,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 ---
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969572/001%20Turnip%20Gyoza/Website-HeroContent.png)
 
-| `✋10 mins Knead ` <br>  `💤 20 mins Rest ` |
+| Knead </n> `✋10 mins` <br>  Rest </n> `💤 20 mins ` |
 | --- |
 | `3 cup` Plain Flour |
 | `1 cup` Lukewarm Water |
