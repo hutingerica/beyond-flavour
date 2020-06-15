@@ -13,7 +13,8 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 
 ### Dough Skin
 ---
-![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969572/001%20Turnip%20Gyoza/Website-HeroContent.png)
+|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969572/001%20Turnip%20Gyoza/Website-HeroContent.png)|
+| --- |
 
 | Knead `✋ : 10 mins` <br>  Rest `💤 : 20 mins ` |
 | --- |
@@ -29,7 +30,8 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 
 ### Filling
 ---
-![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)
+|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)|
+| --- |
 
 | Mix `🌀 : 10 mins ` |
 | --- |
@@ -45,7 +47,9 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 ### Way to Prepare
 ---
 #### <mark> Wrapper </mark>
-![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)
+|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)|
+| --- |
+
 
 | `👀 : Steps`|
 | --- |
@@ -61,7 +65,8 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 | Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried |
 
 #### <mark> Make Gyoza </mark>
-![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969567/001%20Turnip%20Gyoza/Website-Thumb.png)
+|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969567/001%20Turnip%20Gyoza/Website-Thumb.png)|
+| --- |
 
 |`👀 : Steps`|
 | --- |
@@ -75,7 +80,8 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 | It's difficult to fold when you put too much filling. Dont forget to prepare a kitchen towel for Gyoza to prevent getting sticked on the surface |
 
 #### <mark> Pan Fry Gyoza </mark>
-![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0162.jpg)
+|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0162.jpg)|
+| --- |
 
 | `👀 : Steps` |
 | --- |
@@ -103,3 +109,9 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 | `💡: Notes` |
 | --- |
 | Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, <br> or of dough without filling. |
+
+![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turnip%20Gyoza/IMG_0166.jpg)
+![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0159.jpg)
+![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969561/001%20Turnip%20Gyoza/IMG_0161.jpg)
+![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0163.jpg)
+
