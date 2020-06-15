@@ -91,3 +91,14 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 ### Sauce
 ---
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)
+
+| Flavour `🔥 : Spicy` <br>  ` 🍋 : Sour ` |
+| --- |
+| `3 cup` Plain Flour |
+| `1 cup` Lukewarm Water |
+| `5 ml` Oil |
+| `5 g` Salt |
+
+| `💡: Notes` |
+| --- |
+| Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, <br> or of dough without filling. |
