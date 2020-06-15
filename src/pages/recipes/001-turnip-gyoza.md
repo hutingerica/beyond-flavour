@@ -15,7 +15,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 ---
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969572/001%20Turnip%20Gyoza/Website-HeroContent.png)
 
-| ✋</n>Knead</n> `10 mins` <br> 💤</n>Rest</n> `20 mins ` |
+| Knead `✋ : 10 mins` <br>  Rest `💤 : 20 mins ` |
 | --- |
 | `3 cup` Plain Flour |
 | `1 cup` Lukewarm Water |
@@ -31,7 +31,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 ---
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)
 
-| `✋10 mins Mix ` |
+| Mix `🌀 : 10 mins ` |
 | --- |
 | `2 (cup)` Chopped Turnip |
 | `1 cup` Chopped Kimchi |
@@ -42,7 +42,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 | --- |
 | Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, <br> or of dough without filling. |
 
-#### Way to prepare
+#### Way to 
 ---
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)
 
