@@ -47,7 +47,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 #### `Wrapper`
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)
 
-| |
+| `👀 : Steps`|
 | --- |
 | 1.Shape into donut and then divide it in half |
 | 2.Leave the rest one with kitchen towel covered |
@@ -63,7 +63,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 #### `Make Gyoza`
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969567/001%20Turnip%20Gyoza/Website-Thumb.png)
 
-| |
+|`👀 : Steps`|
 | --- |
 | 1.Put the filling |
 | 2.Fold in half |
@@ -77,7 +77,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 #### `Pan Fry Gyoza`
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0162.jpg)
 
-| Pan Fry Gyoza |
+| `👀 : Steps` |
 | --- |
 | 1.Put the filling |
 | 2.Fold in half |
