@@ -22,7 +22,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 | `5 ml` Oil |
 | `5 g` Salt |
 
-| `💡 Notes` |
+| `💡: Notes` |
 | --- |
 | Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, <br> or of dough without filling. |
 
@@ -38,25 +38,39 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 | `1 can` Tuna |
 | `up to you` Black Pepper |
 
-| Notes `: 💡💡💡` |
+| `💡: Notes` |
 | --- |
 | Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, <br> or of dough without filling. |
 
-#### Way to 
+#### Way to Prepare
 ---
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)
 
-| `✋10 mins Mix ` |
+| Wrapper |
 | --- |
-| `2 (cup)` Chopped Turnip |
-| `1 cup` Chopped Kimchi |
-| `1 can` Tuna |
-| `up to you` Black Pepper |
+| 1.Shape into donut and then divide it in half |
+| 2.Leave the rest one with kitchen towel covered |
+| 3.Roll it into a log |
+| 4.Divide it into small pieces `10g` |
+| 5.Flour doughs and work surface|
+| 6.Roll-Rotate-Roll|
 
-| `💡 Notes` |
+| `💡: Notes` |
 | --- |
-| Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, <br> or of dough without filling. |
+| Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried |
 
+![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)
+
+| Make Gyoza |
+| --- |
+| 1.Put the filling |
+| 2.Fold in half |
+| 3.Fold one side |
+| 4.Fold the other side |
+
+| `💡: Notes` |
+| --- |
+| It's difficult to fold when you put too much filling. Dont forget to prepare a kitchen towel for Gyoza to prevent getting sticked on the surface |
 
 
 #### **This is a paragraph**. 
