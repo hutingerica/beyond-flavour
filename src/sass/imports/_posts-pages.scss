@@ -112,6 +112,10 @@
 
   @media only screen and (max-width: 800px) {
     display: block;
+
+    p,table{
+      margin:0;
+    }
   }
 }
 
