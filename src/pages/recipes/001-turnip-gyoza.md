@@ -25,26 +25,26 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 | --- |
 | 1st Tip |
 
+
 # Filling
 
+---
 ***
 
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)
 
-| 20mins |
+| ✋ Playing Time: 5mins <br> 🕙 No need to rest ! |
 | --- |
-| * 3 cup Plain Flour |
-| * 1 cup Lukewarm Water |
-| 5 ml Oil |
-| 5g Salt |
+| `2 (cup)` Chopped Turnip |
+| `1 cup` Chopped Kimchi |
+| `1 can` Tuna |
+| Black Pepper |
 
-| Tips over here |
+| 💡 Notes |
 | --- |
 | 1st Tip |
-| 2nd Tip |
-| 3rd Tip |
 
-***
+
 
 **This is a paragraph**. Pellentesque habitant morbi _tristique senectus et netus et malesuada_ fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
 
