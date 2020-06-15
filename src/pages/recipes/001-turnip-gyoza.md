@@ -6,18 +6,16 @@ subtitle: Dumpling is a broad classification of dishes that consist of pieces of
   wrapped around a filling, or of dough without filling.
 excerpt: ''
 date: 2020-06-11T23:00:00Z
-thumb_image: "/v1591969567/001%20Turnip%20Gyoza/Website-Thumb.png"
-image: "/v1591969565/001%20Turnip%20Gyoza/IMG_0167.jpg"
+thumb_image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969567/001%20Turnip%20Gyoza/Website-Thumb.png"
+image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turnip%20Gyoza/IMG_0167.jpg"
 
 ---
 # Dough Skin
-
 ***
-
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969572/001%20Turnip%20Gyoza/Website-HeroContent.png)
 
-| ✋ 10mins <br> 🕙 20 mins |
-| ---                       |
+| ✋ Playing Time: 10mins <br> 🕙 Resting Time: 20 mins |
+| --- |
 | `3 cup` Plain Flour |
 | `1 cup` Lukewarm Water |
 | `5 ml` Oil |
