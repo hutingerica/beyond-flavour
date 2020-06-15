@@ -91,10 +91,11 @@ address {
 
 mark,
 ins {
-  background: #fff493;
-  color: _palette(charcoal);
-  padding: 0 3px;
+  background: _palette(charcoal);
+  color: #fff;
+  padding: .2em .4em;
   text-decoration: none;
+  border-radius: 3px;
 }
 
 code,
