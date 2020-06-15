@@ -26,7 +26,7 @@ export default class Project extends React.Component {
                   }
                 </div>
                 
-                <div className="post-content inner-sm">
+                <div className="post-content inner-recipe-sm">
                   {htmlToReact(_.get(this.props, 'pageContext.html'))}
                 </div>
               </article>
