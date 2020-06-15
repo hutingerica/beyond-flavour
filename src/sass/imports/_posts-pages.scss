@@ -59,10 +59,10 @@
   margin-bottom: 2em;
   p {
     margin: 0 0 1.66667em;
-    flex:1.5;
+    flex:1;
   }
   .post-heroimage {
-    flex:2;
+    flex:1;
     margin-bottom: 1.66667em;
     margin-left: 0.83333em;
   }
@@ -108,6 +108,10 @@
   table{
     flex:1;
     margin: 0.8333em 0.8333em;
+  }
+
+  @media only screen and (max-width: 800px) {
+    display: block;
   }
 }
 
