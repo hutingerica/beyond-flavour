@@ -49,12 +49,12 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 
 | `👀 : Steps`|
 | --- |
-| 1.Shape into donut and then divide it in half |
-| 2.Leave the rest one with kitchen towel covered |
-| 3.Roll it into a log |
-| 4.Divide it into small pieces `10g` |
-| 5.Flour doughs and work surface|
-| 6.Roll-Rotate-Roll|
+| Shape into donut and then divide it in half |
+| Leave the rest one with kitchen towel covered |
+| Roll it into a log |
+| Divide it into small pieces `10g` |
+| Flour doughs and work surface|
+| Roll-Rotate-Roll|
 
 | `💡: Notes` |
 | --- |
@@ -65,10 +65,10 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 
 |`👀 : Steps`|
 | --- |
-| 1.Put the filling |
-| 2.Fold in half |
-| 3.Fold one side |
-| 4.Fold the other side |
+| Put the filling |
+| Fold in half |
+| Fold one side |
+| Fold the other side |
 
 | `💡: Notes` |
 | --- |
@@ -79,10 +79,10 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 
 | `👀 : Steps` |
 | --- |
-| 1.Put the filling |
-| 2.Fold in half |
-| 3.Fold one side |
-| 4.Fold the other side |
+| Put the filling |
+| Fold in half |
+| Fold one side |
+| Fold the other side |
 
 | `💡: Notes` |
 | --- |
