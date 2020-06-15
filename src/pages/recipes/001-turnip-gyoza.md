@@ -16,8 +16,8 @@ image: "/v1591969565/001%20Turnip%20Gyoza/IMG_0167.jpg"
 |------|
 
 |10mins|
-|------|
 |20mins|
+|------|
 |* 3 cup Plain Flour|
 |* 1 cup Lukewarm Water|
 |5 ml Oil|
