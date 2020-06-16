@@ -102,12 +102,16 @@
 
   p{
     flex: 100%;
-    margin: 0.415em 0 2.915em 0;
+    margin: 0.415em 0 0.415em 0;
   }
 
   table{
     flex:1;
     margin: 0.416em 1.666em 0.8333em 0;
+  }
+
+  blockquote {
+    margin:0.8333em 0 3.222em 0;
   }
 
   @media only screen and (max-width: 800px) {
@@ -118,12 +122,16 @@
     }
 
     p{
-      margin:0.8333em 0 3.222em 0;
+      margin:0.8333em 0 0.8333em 0;
     }
 
     h6 {
       margin-top: 1.248em;
       letter-spacing: 0.15em;
+    }
+
+    blockquote {
+      margin:0.8333em 0 3.222em 0;
     }
   }
 }

@@ -25,12 +25,9 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 | `5 ml` Oil |
 | `5 g` Salt |
 
-```text
-
 ###### `📝 : Notes`
 
-Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, or of dough without filling.
-```
+> Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, or of dough without filling.
 
 
 #### 🌓 Filling
@@ -49,7 +46,7 @@ Dumpling is a broad classification of dishes that consist of pieces of dough wra
 
 ###### `📝 : Notes`
 
-Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, or of dough without filling.
+> Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, or of dough without filling.
 
 
 #### 🌕 Way to Prepare
@@ -71,7 +68,7 @@ Dumpling is a broad classification of dishes that consist of pieces of dough wra
 
 ###### `📝 : Notes`
 
-Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried.
+> Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried.
 
 
 |![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969567/001%20Turnip%20Gyoza/Website-Thumb.png)|
@@ -86,7 +83,7 @@ Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to
 
 ###### `📝 : Notes`
 
-Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
+> Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
 
 |![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0162.jpg)|
 | --- |
@@ -100,7 +97,7 @@ Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to
 
 ###### `📝 : Notes`
 
-Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
+> Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
 
 
 #### 🌗 Sauce
@@ -119,7 +116,7 @@ Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to
 
 ###### `📝 : Notes`
 
-Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
+> Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
 
 #### `🥟 : OO1` Turnip Gyoza 
 
