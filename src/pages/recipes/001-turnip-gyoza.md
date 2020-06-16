@@ -122,19 +122,19 @@ Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to
 
 ---
 
-<br>
+
 
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turnip%20Gyoza/IMG_0159.jpg)
 
-<br>
+
 
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0166.jpg)
 
-<br>
+
 
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969561/001%20Turnip%20Gyoza/IMG_0161.jpg)
 
-<br>
+
 
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0163.jpg)
 
