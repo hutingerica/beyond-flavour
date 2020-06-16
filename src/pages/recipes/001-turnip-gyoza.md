@@ -107,7 +107,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 |![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)|
 |---|
 
-| `🔥 : Spicy` ` 🍋 : Sour ` Flavour |
+| Flavour <br> `🔥 : Spicy` ` 🍋 : Sour ` |
 | --- |
 | `3 cup` Plain Flour |
 | `1 cup` Lukewarm Water |
