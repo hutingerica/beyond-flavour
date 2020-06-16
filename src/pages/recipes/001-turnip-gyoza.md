@@ -27,9 +27,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 
 ###### `💡: Notes`
 
-Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, <br> or of dough without filling.
-
-<br>
+Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, or of dough without filling.
 
 
 #### Filling
@@ -46,11 +44,10 @@ Dumpling is a broad classification of dishes that consist of pieces of dough wra
 | `1 can` Tuna |
 | `up to you` Black Pepper |
 
-| `💡: Notes` |
-| --- |
-| Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, <br> or of dough without filling. |
+###### `💡: Notes`
 
-<br>
+Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, or of dough without filling.
+
 
 #### Way to Prepare
 
@@ -69,9 +66,10 @@ Dumpling is a broad classification of dishes that consist of pieces of dough wra
 | Flour doughs and work surface|
 | Roll-Rotate-Roll|
 
-| `💡: Notes` |
-| --- |
-| Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried |
+###### `💡: Notes`
+
+Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried.
+
 
 ---
 
@@ -85,9 +83,9 @@ Dumpling is a broad classification of dishes that consist of pieces of dough wra
 | Fold one side |
 | Fold the other side |
 
-| `💡: Notes` |
-| --- |
-| It's difficult to fold when you put too much filling. Dont forget to prepare a kitchen towel for Gyoza to prevent getting sticked on the surface |
+###### `💡: Notes`
+
+Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
 
 ---
 
@@ -101,9 +99,9 @@ Dumpling is a broad classification of dishes that consist of pieces of dough wra
 | Fold one side |
 | Fold the other side |
 
-| `💡: Notes` |
-| --- |
-| It's difficult to fold when you put too much filling. Dont forget to prepare a kitchen towel for Gyoza to prevent getting sticked on the surface |
+###### `💡: Notes`
+
+Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
 
 <br>
 
@@ -121,9 +119,9 @@ Dumpling is a broad classification of dishes that consist of pieces of dough wra
 | `5 ml` Oil |
 | `5 g` Salt |
 
-| `💡: Notes` |
-| --- |
-| Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, <br> or of dough without filling. |
+###### `💡: Notes`
+
+Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
 
 <br>
 
