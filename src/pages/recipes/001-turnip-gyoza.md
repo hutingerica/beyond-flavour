@@ -59,12 +59,12 @@ Dumpling is a broad classification of dishes that consist of pieces of dough wra
 
 | 1. Wrapper `👀 : Steps`|
 | --- |
-| Shape into donut and then divide it in half |
-| Leave the rest one with kitchen towel covered |
-| Roll it into a log |
-| Divide it into small pieces `10g` |
-| Flour doughs and work surface|
-| Roll-Rotate-Roll|
+| 📍 Shape into donut and then divide it in half |
+| 📍 Leave the rest one with kitchen towel covered |
+| 📍 Roll it into a log |
+| 📍 Divide it into small pieces `10g` |
+| 📍 Flour doughs and work surface|
+| 📍 Roll-Rotate-Roll|
 
 ###### `💡 : Notes`
 
@@ -76,10 +76,10 @@ Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to
 
 | 2. Make Gyoza `👀 : Steps`|
 | --- |
-| Put the filling |
-| Fold in half |
-| Fold one side |
-| Fold the other side |
+| 📍 Put the filling |
+| 📍 Fold in half |
+| 📍 Fold one side |
+| 📍 Fold the other side |
 
 ###### `💡 : Notes`
 
@@ -90,10 +90,10 @@ Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to
 
 | 3. Pan Fry `👀 : Steps` |
 | --- |
-| Put the filling |
-| Fold in half |
-| Fold one side |
-| Fold the other side |
+| 📍 Put the filling |
+| 📍 Fold in half |
+| 📍 Fold one side |
+| 📍 Fold the other side |
 
 ###### `💡 : Notes`
 
