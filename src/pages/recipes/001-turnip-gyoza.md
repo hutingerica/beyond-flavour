@@ -12,7 +12,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 ---
 
 ### Dough Skin
----
+
 |![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969572/001%20Turnip%20Gyoza/Website-HeroContent.png)|
 | --- |
 
@@ -27,9 +27,11 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 | --- |
 | Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, <br> or of dough without filling. |
 
+---
+
 
 ### Filling
----
+
 |![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)|
 | --- |
 
@@ -44,8 +46,10 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 | --- |
 | Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, <br> or of dough without filling. |
 
-### Way to Prepare
 ---
+
+### Way to Prepare
+
 #### <mark> Wrapper </mark>
 |![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)|
 | --- |
@@ -94,8 +98,10 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 | --- |
 | It's difficult to fold when you put too much filling. Dont forget to prepare a kitchen towel for Gyoza to prevent getting sticked on the surface |
 
-### Sauce
 ---
+
+### Sauce
+
 |![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)|
 |---|
 
@@ -109,10 +115,8 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 | `💡: Notes` |
 | --- |
 | Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, <br> or of dough without filling. |
-<br>
-<br>
-<br>
-<br>
+
+---
 
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turnip%20Gyoza/IMG_0166.jpg)
 
