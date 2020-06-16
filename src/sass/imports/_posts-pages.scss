@@ -87,10 +87,14 @@
   h4{
     flex: 100%;
     margin: 1.666em 0 0.416em 0;
+    padding-bottom: 0.416em;
+    border-bottom: 1px solid _palette(charcoal);
     letter-spacing: 0.15em;
+
   }
 
   hr{
+    color: none;
     flex: 100%;
   }
 
