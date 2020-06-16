@@ -71,8 +71,6 @@ Dumpling is a broad classification of dishes that consist of pieces of dough wra
 Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried.
 
 
----
-
 |![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969567/001%20Turnip%20Gyoza/Website-Thumb.png)|
 | --- |
 
@@ -86,8 +84,6 @@ Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to
 ###### `💡: Notes`
 
 Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
-
----
 
 |![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0162.jpg)|
 | --- |
@@ -103,7 +99,6 @@ Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to
 
 Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
 
-<br>
 
 #### Sauce
 
@@ -122,6 +117,8 @@ Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to
 ###### `💡: Notes`
 
 Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
+
+#### OO1 Turnip Gyoza 🥟 
 
 <br>
 
