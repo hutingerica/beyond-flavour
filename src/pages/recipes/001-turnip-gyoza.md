@@ -57,7 +57,7 @@ Dumpling is a broad classification of dishes that consist of pieces of dough wra
 | --- |
 
 
-| 1. Wrapper `👀 : Steps`|
+| `👀 : 1st Step` Wrapper |
 | --- |
 | 📍 Shape into donut and then divide it in half |
 | 📍 Leave the rest one with kitchen towel covered |
@@ -74,7 +74,7 @@ Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to
 |![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969567/001%20Turnip%20Gyoza/Website-Thumb.png)|
 | --- |
 
-| 2. Make Gyoza `👀 : Steps`|
+| `👀 : 2nd Step` Make Gyoza |
 | --- |
 | 📍 Put the filling |
 | 📍 Fold in half |
@@ -88,7 +88,7 @@ Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to
 |![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0162.jpg)|
 | --- |
 
-| 3. Pan Fry `👀 : Steps` |
+| `👀 : 3rd Step` Pan Fry  |
 | --- |
 | 📍 Put the filling |
 | 📍 Fold in half |
@@ -118,7 +118,7 @@ Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to
 
 Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
 
-#### 🥟 OO1 Turnip Gyoza 
+#### `🥟 : OO1` Turnip Gyoza 
 
 ---
 
