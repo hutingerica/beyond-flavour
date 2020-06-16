@@ -107,7 +107,7 @@ Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to
 |![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)|
 |---|
 
-| Flavour `🔥 : Spicy` <br>  ` 🍋 : Sour ` |
+| Flavour `🔥 : Spicy` ` 🍋 : Sour ` |
 | --- |
 | `3 cup` Plain Flour |
 | `1 cup` Lukewarm Water |
