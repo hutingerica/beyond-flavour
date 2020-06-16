@@ -11,7 +11,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 
 ---
 
-#### Dough Skin
+#### 🌑 Dough Skin
 
 ---
 
@@ -30,7 +30,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, or of dough without filling.
 
 
-#### Filling
+#### 🌓 Filling
 
 ---
 
@@ -49,7 +49,7 @@ Dumpling is a broad classification of dishes that consist of pieces of dough wra
 Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, or of dough without filling.
 
 
-#### Way to Prepare
+#### 🌕 Way to Prepare
 
 ---
 
@@ -57,7 +57,7 @@ Dumpling is a broad classification of dishes that consist of pieces of dough wra
 | --- |
 
 
-| Wrapper `👀 : Steps`|
+| 1. Wrapper `👀 : Steps`|
 | --- |
 | Shape into donut and then divide it in half |
 | Leave the rest one with kitchen towel covered |
@@ -74,7 +74,7 @@ Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to
 |![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969567/001%20Turnip%20Gyoza/Website-Thumb.png)|
 | --- |
 
-| Make Gyoza `👀 : Steps`|
+| 2. Make Gyoza `👀 : Steps`|
 | --- |
 | Put the filling |
 | Fold in half |
@@ -88,7 +88,7 @@ Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to
 |![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0162.jpg)|
 | --- |
 
-| Pan Fry `👀 : Steps` |
+| 3. Pan Fry `👀 : Steps` |
 | --- |
 | Put the filling |
 | Fold in half |
@@ -100,7 +100,7 @@ Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to
 Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
 
 
-#### Sauce
+#### 🌗 Sauce
 
 ---
 
