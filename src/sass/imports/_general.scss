@@ -110,13 +110,14 @@ pre {
 }
 
 pre {
-  background: _palette(charcoal-light-80);
+  background: rgba(27, 31, 35, 0.05);
   font-size: 0.88889em;
   margin: 0 0 1.875em;
   overflow: auto;
   padding: 1.5em;
   position: relative;
   white-space: pre;
+  flex: 100%;
 }
 
 blockquote {
