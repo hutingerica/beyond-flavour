@@ -118,7 +118,7 @@ Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to
 
 Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
 
-#### OO1 Turnip Gyoza 🥟 
+#### 🥟 OO1 Turnip Gyoza 
 
 ---
 
