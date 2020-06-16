@@ -13,6 +13,8 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 
 #### Dough Skin
 
+---
+
 |![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969572/001%20Turnip%20Gyoza/Website-HeroContent.png)|
 | --- |
 
@@ -32,6 +34,8 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 
 #### Filling
 
+---
+
 |![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)|
 | --- |
 
@@ -50,7 +54,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 
 #### Way to Prepare
 
-<br>
+---
 
 |![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)|
 | --- |
