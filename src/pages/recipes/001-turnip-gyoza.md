@@ -18,7 +18,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 |![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969572/001%20Turnip%20Gyoza/Website-HeroContent.png)|
 | --- |
 
-| Knead `✋ : 10 mins` <br>  Rest `💤 : 20 mins ` |
+| `✋ : 10 mins` Knead <br> `💤 : 20 mins ` Rest |
 | --- |
 | `3 cup` Plain Flour |
 | `1 cup` Lukewarm Water |
@@ -37,7 +37,7 @@ Dumpling is a broad classification of dishes that consist of pieces of dough wra
 |![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)|
 | --- |
 
-| Mix `🌀 : 10 mins ` |
+| `🌀 : 10 mins ` Mix |
 | --- |
 | `2 (cup)` Chopped Turnip |
 | `1 cup` Chopped Kimchi |
@@ -107,7 +107,7 @@ Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to
 |![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)|
 |---|
 
-| Flavour `🔥 : Spicy` ` 🍋 : Sour ` |
+| `🔥 : Spicy` ` 🍋 : Sour ` Flavour |
 | --- |
 | `3 cup` Plain Flour |
 | `1 cup` Lukewarm Water |
