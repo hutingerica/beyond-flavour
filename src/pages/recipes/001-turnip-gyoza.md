@@ -25,7 +25,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 | `5 ml` Oil |
 | `5 g` Salt |
 
-###### `💡 : Notes`
+###### `📝 : Notes`
 
 Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, or of dough without filling.
 
@@ -44,7 +44,7 @@ Dumpling is a broad classification of dishes that consist of pieces of dough wra
 | `1 can` Tuna |
 | `up to you` Black Pepper |
 
-###### `💡 : Notes`
+###### `📝 : Notes`
 
 Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, or of dough without filling.
 
@@ -66,7 +66,7 @@ Dumpling is a broad classification of dishes that consist of pieces of dough wra
 | 📍 Flour doughs and work surface|
 | 📍 Roll-Rotate-Roll|
 
-###### `💡 : Notes`
+###### `📝 : Notes`
 
 Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried.
 
@@ -81,7 +81,7 @@ Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to
 | 📍 Fold one side |
 | 📍 Fold the other side |
 
-###### `💡 : Notes`
+###### `📝 : Notes`
 
 Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
 
@@ -95,7 +95,7 @@ Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to
 | 📍 Fold one side |
 | 📍 Fold the other side |
 
-###### `💡 : Notes`
+###### `📝 : Notes`
 
 Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
 
@@ -114,7 +114,7 @@ Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to
 | `5 ml` Oil |
 | `5 g` Salt |
 
-###### `💡 : Notes`
+###### `📝 : Notes`
 
 Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
 
