@@ -59,12 +59,12 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 
 | `👀 : 1st Step` Wrapper |
 | --- |
-| 〰️ Shape into donut and then divide it in half |
-| 〰️ Leave the rest one with kitchen towel covered |
-| 〰️ Roll it into a log |
-| 〰️ Divide it into small pieces `10g` |
-| 〰️ Flour doughs and work surface|
-| 〰️ Roll-Rotate-Roll|
+| `〰️` Shape into donut and then divide it in half |
+| `〰️` Leave the rest one with kitchen towel covered |
+| `〰️` Roll it into a log |
+| `〰️` Divide it into small pieces `10g` |
+| `〰️` Flour doughs and work surface|
+| `〰️` Roll-Rotate-Roll|
 
 ###### `📝 : Notes`
 
@@ -76,10 +76,10 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 
 | `👀 : 2nd Step` Make Gyoza |
 | --- |
-| 〰️ Put the filling |
-| 〰️ Fold in half |
-| 〰️ Fold one side |
-| 〰️ Fold the other side |
+| `〰️` Put the filling |
+| `〰️` Fold in half |
+| `〰️` Fold one side |
+| `〰️` Fold the other side |
 
 ###### `📝 : Notes`
 
@@ -90,10 +90,10 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 
 | `👀 : 3rd Step` Pan Fry  |
 | --- |
-| 〰️ Put the filling |
-| 〰️ Fold in half |
-| 〰️ Fold one side |
-| 〰️ Fold the other side |
+| `〰️` Put the filling |
+| `〰️` Fold in half |
+| `〰️` Fold one side |
+| `〰️` Fold the other side |
 
 ###### `📝 : Notes`
 
