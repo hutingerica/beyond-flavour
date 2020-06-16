@@ -69,7 +69,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 | --- |
 | Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried |
 
-<br>
+---
 
 |![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969567/001%20Turnip%20Gyoza/Website-Thumb.png)|
 | --- |
@@ -85,7 +85,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 | --- |
 | It's difficult to fold when you put too much filling. Dont forget to prepare a kitchen towel for Gyoza to prevent getting sticked on the surface |
 
-<br>
+---
 
 |![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0162.jpg)|
 | --- |
