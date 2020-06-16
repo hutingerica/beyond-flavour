@@ -46,7 +46,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 
 ###### `📝 : Notes`
 
-> Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, or of dough without filling.
+> Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, or of dough without filling. Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried 
 
 
 #### 🌕 Way to Prepare
@@ -68,7 +68,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 
 ###### `📝 : Notes`
 
-> Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried.
+> Don't forger to
 
 
 |![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969567/001%20Turnip%20Gyoza/Website-Thumb.png)|
@@ -83,7 +83,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 
 ###### `📝 : Notes`
 
-> Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
+> Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried 
 
 |![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0162.jpg)|
 | --- |
@@ -97,7 +97,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 
 ###### `📝 : Notes`
 
-> Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
+> Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried 
 
 
 #### 🌗 Sauce
@@ -116,7 +116,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 
 ###### `📝 : Notes`
 
-> Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
+> Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried 
 
 #### `🥟 : OO1` Turnip Gyoza 
 
