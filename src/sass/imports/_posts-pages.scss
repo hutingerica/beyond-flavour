@@ -96,6 +96,10 @@
   .media-wrapper{
     flex: 1;
     margin: 0.416em 0.8333em 0.416em 0;
+
+    img {
+      width: 100%;
+    }
   }
 
   h6{
