@@ -36,8 +36,11 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 #### 🌓 Filling
 
-|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0165.jpg)|
-| --- |
+<div class = "media-wrapper">
+
+![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0165.jpg)
+
+</div>
 
 | `🌀 : 10 mins ` Mix |
 | --- |
@@ -53,9 +56,9 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 #### 🌕 Way to Prepare
 
-|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0165.jpg)|
-| --- |
-
+<div class = "media-wrapper">
+<img src= "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0165.jpg" />
+</div>
 
 | `👀 : 1st Step` Wrapper |
 | --- |
@@ -70,8 +73,9 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 > Don't forger to
 
-|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0165.jpg)|
-| --- |
+<div>
+<img src="https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0165.jpg" />
+</div>
 
 | `👀 : 2nd Step` Make Gyoza |
 | --- |
@@ -84,8 +88,10 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 > Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried 
 
-|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0165.jpg)|
-| --- |
+<div>
+<img src="https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0165.jpg" />
+</div>
+
 
 | `👀 : 3rd Step` Pan Fry  |
 | --- |
@@ -101,8 +107,9 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 #### 🌗 Sauce
 
-|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0165.jpg)|
-|---|
+<div>
+<img src= "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0165.jpg"/>
+</div>
 
 | `🔥 : Spicy` ` 🍋 : Sour ` Dip |
 | --- |
