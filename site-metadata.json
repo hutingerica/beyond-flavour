@@ -28,7 +28,7 @@
         "type": "link"
       }
     ],
-    "logo_img": "/images/logo.png"
+    "logo_img": "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1592389817/Website-design/logo_qaxfmp.png"
   },
   "footer": {
     "content": "&copy; & Beyond Flavour 2020. All rights reserved.",
