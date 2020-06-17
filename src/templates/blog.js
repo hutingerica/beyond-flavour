@@ -25,7 +25,7 @@ export default class Blog extends React.Component {
                   <div className="post-inside">
                     {_.get(post, 'frontmatter.thumb_image') && 
                     <Link className="post-thumbnail" to={safePrefix(_.get(post, 'url'))}>
-                      <img src={safePrefix(_.get(post, 'pageContext.frontmatter.thumb_image'))} alt={_.get(post, 'frontmatter.title')} />
+                      <img src={safePrefix(_.get(post, 'frontmatter.thumb_image'))} alt={_.get(post, 'frontmatter.title')} />
                     </Link>
                     }
                     <header className="post-header">
