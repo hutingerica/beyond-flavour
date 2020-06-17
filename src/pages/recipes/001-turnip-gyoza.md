@@ -64,16 +64,15 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 
 > Don't forger to
 
-
-|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969567/001%20Turnip%20Gyoza/Website-Thumb.png)|
-| --- |
-
 | `👀 : 2nd Step` Make Gyoza |
 | --- |
 | `〰️` Put the filling |
 | `〰️` Fold in half |
 | `〰️` Fold one side |
 | `〰️` Fold the other side |
+
+|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969567/001%20Turnip%20Gyoza/Website-Thumb.png)|
+| --- |
 
 ###### `📝 : Notes`
 
