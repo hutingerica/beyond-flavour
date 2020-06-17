@@ -78,6 +78,7 @@
 
     p{
       margin-bottom: 1em;
+      font-size: 1em;
     }
   }
 }
@@ -94,28 +95,28 @@
 
   .media-wrapper{
     flex: 1;
-    margin: 0.8333em 1.666em 0.8333em 0;
+    margin: 0.416em 0.8333em 0.416em 0;
   }
 
   h6{
     flex: 100%;
-    margin: 0;
+    margin: 0.416em 0 0 0;
     letter-spacing: 0.15em;
   }
 
   p{
     flex: 100%;
-    margin: 0.415em 0 0.415em 0;
+    margin: 0.416em 0 0.416em 0;
   }
 
   table{
     flex:1;
-    margin: 0.416em 1.666em 0.416em 0;
+    margin: 0.8333em 0em 0.416em 0;
     max-width: 570px
   }
 
   blockquote {
-    margin:0.8333em 0 2.4999em 0;
+    margin:0.416em 0 2.4999em 0;
     font-size: 1em;
     flex: 100%;
   }
