@@ -94,12 +94,7 @@
 
   .media-wrapper{
     flex: 1;
-    margin: 0.416em 1.666em 0.8333em 0;
-  }
-
-  hr{
-    color: none;
-    flex: 100%;
+    margin: 0.8333em 1.666em 0.8333em 0;
   }
 
   h6{
@@ -116,6 +111,7 @@
   table{
     flex:1;
     margin: 0.416em 1.666em 0.416em 0;
+    max-width: 570px
   }
 
   blockquote {
@@ -129,6 +125,11 @@
 
     table{
       margin: 0;
+      width: 100%;
+    }
+
+    .media-wrapper{
+      margin: 0.8333em 0 0.8333em 0;
     }
 
     p{
