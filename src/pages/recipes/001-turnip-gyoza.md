@@ -18,7 +18,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 ---
 #### 🌑 Dough Skin
 
-|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969572/001%20Turnip%20Gyoza/Website-HeroContent.png)|
+|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969567/Recipes/001%20Turnip%20Gyoza/Website-Thumb.png)|
 | --- |
 ||
 
@@ -36,7 +36,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 #### 🌓 Filling
 
-|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)|
+|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0165.jpg)|
 | --- |
 
 | `🌀 : 10 mins ` Mix |
@@ -53,7 +53,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 #### 🌕 Way to Prepare
 
-|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)|
+|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0165.jpg)|
 | --- |
 
 
@@ -70,7 +70,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 > Don't forger to
 
-|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969567/001%20Turnip%20Gyoza/Website-Thumb.png)|
+|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0165.jpg)|
 | --- |
 
 | `👀 : 2nd Step` Make Gyoza |
@@ -84,7 +84,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 > Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried 
 
-|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0162.jpg)|
+|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0165.jpg)|
 | --- |
 
 | `👀 : 3rd Step` Pan Fry  |
@@ -101,7 +101,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 #### 🌗 Sauce
 
-|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0165.jpg)|
+|![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0165.jpg)|
 |---|
 
 | `🔥 : Spicy` ` 🍋 : Sour ` Dip |
@@ -117,10 +117,10 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 #### `🥟 : OO1` Turnip Gyoza 
 
-![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turnip%20Gyoza/IMG_0159.jpg)
+![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0159.jpg)
 
-![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0166.jpg)
+![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0166.jpg)
 
-![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969561/001%20Turnip%20Gyoza/IMG_0161.jpg)
+![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969561/Recipes/001%20Turnip%20Gyoza/IMG_0161.jpg)
 
-![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/001%20Turnip%20Gyoza/IMG_0163.jpg)
+![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0163.jpg)
