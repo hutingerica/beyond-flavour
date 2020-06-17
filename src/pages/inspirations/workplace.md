@@ -1,8 +1,8 @@
 ---
 title: "Kimchi & Avocado \U0001F951"
 date: 2019-03-24
-thumb_image: "/images/img_2520.jpg"
-image: images/11.jpg
+thumb_image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1592396849/Inspirations/Kimchi_Avocado-01-thumb_t4xhqe.jpg
+image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1592396849/Inspirations/Kimchi_Avocado-01-thumb_t4xhqe.jpg
 excerpt: Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
 template: post
