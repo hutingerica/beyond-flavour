@@ -65,7 +65,7 @@ image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turn
 > Don't forger to
 
 | `👀 : 2nd Step` Make Gyoza |
-| --- |
+| ---: |
 | `〰️` Put the filling |
 | `〰️` Fold in half |
 | `〰️` Fold one side |
