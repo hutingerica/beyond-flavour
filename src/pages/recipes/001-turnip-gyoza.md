@@ -20,7 +20,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 <div class = "media-wrapper">
 
-![](https://res.cloudinary.com/dnxlxtcb7/v1592427751/Recipes/001%20Turnip%20Gyoza/Animated_GIF-downsized_large_syxkk6.gif)
+![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1592429810/Recipes/001%20Turnip%20Gyoza/Animated_GIF-downsized_large-2_qxcgfl.gif)
 
 </div>
 
