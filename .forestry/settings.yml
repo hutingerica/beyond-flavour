@@ -13,7 +13,7 @@ sections:
   path: src/pages
   label: Pages
   create: documents
-  match: ".md"
+  match: "*"
   exclude: "{inspirations/**/*, recipes/**/*, recipe/**/*, inspiration/**/*}"
   templates:
   - page
