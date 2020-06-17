@@ -43,7 +43,7 @@ front_matter_path: ''
 use_front_matter_path: true
 file_template: ":filename:"
 build:
-  preview_docker_image: node:12
+  preview_output_directory: public
   install_dependencies_command: npm install
   instant_preview_command: npm start
   mount_path: "/srv"
