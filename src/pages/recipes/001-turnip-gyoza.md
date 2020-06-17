@@ -18,18 +18,22 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 ---
 #### 🌑 Dough Skin
 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="\[[https://giphy.com/embed/gLzpvpgJxxXkxbeZ6y](https://giphy.com/embed/gLzpvpgJxxXkxbeZ6y "https://giphy.com/embed/gLzpvpgJxxXkxbeZ6y")\]([https://giphy.com/embed/gLzpvpgJxxXkxbeZ6y](https://giphy.com/embed/gLzpvpgJxxXkxbeZ6y "https://giphy.com/embed/gLzpvpgJxxXkxbeZ6y") "[https://giphy.com/embed/gLzpvpgJxxXkxbeZ6y](https://giphy.com/embed/gLzpvpgJxxXkxbeZ6y "https://giphy.com/embed/gLzpvpgJxxXkxbeZ6y")")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="\[[https://giphy.com/gifs/gLzpvpgJxxXkxbeZ6y](https://giphy.com/gifs/gLzpvpgJxxXkxbeZ6y "https://giphy.com/gifs/gLzpvpgJxxXkxbeZ6y")\]([https://giphy.com/gifs/gLzpvpgJxxXkxbeZ6y](https://giphy.com/gifs/gLzpvpgJxxXkxbeZ6y "https://giphy.com/gifs/gLzpvpgJxxXkxbeZ6y") "[https://giphy.com/gifs/gLzpvpgJxxXkxbeZ6y](https://giphy.com/gifs/gLzpvpgJxxXkxbeZ6y "https://giphy.com/gifs/gLzpvpgJxxXkxbeZ6y")")">via GIPHY</a></p>
+
+<iframe src="\[[https://giphy.com/embed/gLzpvpgJxxXkxbeZ6y](https://giphy.com/embed/gLzpvpgJxxXkxbeZ6y "https://giphy.com/embed/gLzpvpgJxxXkxbeZ6y")\]([https://giphy.com/embed/gLzpvpgJxxXkxbeZ6y](https://giphy.com/embed/gLzpvpgJxxXkxbeZ6y "https://giphy.com/embed/gLzpvpgJxxXkxbeZ6y") "[https://giphy.com/embed/gLzpvpgJxxXkxbeZ6y](https://giphy.com/embed/gLzpvpgJxxXkxbeZ6y "https://giphy.com/embed/gLzpvpgJxxXkxbeZ6y")")" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="\[[https://giphy.com/gifs/gLzpvpgJxxXkxbeZ6y](https://giphy.com/gifs/gLzpvpgJxxXkxbeZ6y "https://giphy.com/gifs/gLzpvpgJxxXkxbeZ6y")\]([https://giphy.com/gifs/gLzpvpgJxxXkxbeZ6y](https://giphy.com/gifs/gLzpvpgJxxXkxbeZ6y "https://giphy.com/gifs/gLzpvpgJxxXkxbeZ6y") "[https://giphy.com/gifs/gLzpvpgJxxXkxbeZ6y](https://giphy.com/gifs/gLzpvpgJxxXkxbeZ6y "https://giphy.com/gifs/gLzpvpgJxxXkxbeZ6y")")">via GIPHY</a></p>
+
 <div class = "media-wrapper">
 
 ![](https://res.cloudinary.com/dnxlxtcb7/v1592427751/Recipes/001%20Turnip%20Gyoza/Animated_GIF-downsized_large_syxkk6.gif)
 
 </div>
 
-| `✋ : 10 mins` Knead <br> `💤 : 20 mins` Rest |
+| ✋ : 10 mins Knead <br> 💤 : 20 mins Rest |
 | --- |
-| `3 cup` Plain Flour |
-| `1 cup` Lukewarm Water |
-| `5 ml` Oil |
-| `5 g` Salt |
+| 3 cup Plain Flour |
+| 1 cup Lukewarm Water |
+| 5 ml Oil |
+| 5 g Salt |
 
 ###### `📝 : Notes`
 
@@ -43,12 +47,12 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 </div>
 
-| `🌀 : 10 mins` Mix |
+| 🌀 : 10 mins Mix |
 | --- |
-| `2 (cup)` Chopped Turnip |
-| `1 cup` Chopped Kimchi |
-| `1 can` Tuna |
-| `up to you` Black Pepper |
+| 2 (cup) Chopped Turnip |
+| 1 cup Chopped Kimchi |
+| 1 can Tuna |
+| up to you Black Pepper |
 
 ###### `📝 : Notes`
 
@@ -62,14 +66,14 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 </div>
 
-| `👀 : 1st Step` Wrapper |
+| 👀 : 1st Step Wrapper |
 | --- |
-| `〰️` Shape into donut and then divide it in half |
-| `〰️` Leave the rest one with kitchen towel covered |
-| `〰️` Roll it into a log |
-| `〰️` Divide it into small pieces 10g |
-| `〰️` Flour doughs and work surface |
-| `〰️` Roll-Rotate-Roll |
+| 〰️ Shape into donut and then divide it in half |
+| 〰️ Leave the rest one with kitchen towel covered |
+| 〰️ Roll it into a log |
+| 〰️ Divide it into small pieces 10g |
+| 〰️ Flour doughs and work surface |
+| 〰️ Roll-Rotate-Roll |
 
 ###### `📝 : Notes`
 
@@ -81,12 +85,12 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 </div>
 
-| `👀 : 2nd Step` Make Gyoza |
+| 👀 : 2nd Step Make Gyoza |
 | --- |
-| `〰️` Put the filling |
-| `〰️` Fold in half |
-| `〰️` Fold one side |
-| `〰️` Fold the other side |
+| 〰️ Put the filling |
+| 〰️ Fold in half |
+| 〰️ Fold one side |
+| 〰️ Fold the other side |
 
 ###### `📝 : Notes`
 
@@ -98,12 +102,12 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 </div>
 
-| `👀 : 3rd Step` Pan Fry |
+| 👀 : 3rd Step Pan Fry |
 | --- |
-| `〰️` Put the filling |
-| `〰️` Fold in half |
-| `〰️` Fold one side |
-| `〰️` Fold the other side |
+| 〰️ Put the filling |
+| 〰️ Fold in half |
+| 〰️ Fold one side |
+| 〰️ Fold the other side |
 
 ###### `📝 : Notes`
 
@@ -117,12 +121,12 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 </div>
 
-| `🔥 : Spicy` `🍋 : Sour` Dip |
+| 🔥 : Spicy 🍋 : Sour Dip |
 | --- |
-| `3 cup` Plain Flour |
-| `1 cup` Lukewarm Water |
-| `5 ml` Oil |
-| `5 g` Salt |
+| 3 cup Plain Flour |
+| 1 cup Lukewarm Water |
+| 5 ml Oil |
+| 5 g Salt |
 
 ###### `📝 : Notes`
 
