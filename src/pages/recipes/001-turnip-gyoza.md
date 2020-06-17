@@ -2,8 +2,7 @@
 cloudinary_url: https://res.cloudinary.com/dnxlxtcb7/image/upload
 template: project
 title: 001 Turnip Gyoza
-subtitle: Juicy on the inside, crispy and golden brown on the outside, these pan-fried dumplings, Gyoza, are popular weeknight meal as well as a great appetizer for your next dinner party.
-The key characteristic of gyoza (日式煎餃) lies in its cooking method, which involves both pan-frying and steaming. They are first fried in a hot pan until crispy brown on the bottom sides, then a small amount of water is added before the pan is covered to quickly steam the entire dumplings. This technique gives gyoza the best mix of textures, where you get crispy bottoms and tender soft tops that encase the juicy filling inside.
+subtitle: Juicy on the inside, crispy and golden brown on the outside, these pan-fried dumplings, Gyoza, are popular weeknight meal as well as a great appetizer for your next dinner party. The key characteristic of gyoza (日式煎餃) lies in its cooking method, which involves both pan-frying and steaming. They are first fried in a hot pan until crispy brown on the bottom sides, then a small amount of water is added before the pan is covered to quickly steam the entire dumplings. This technique gives gyoza the best mix of textures, where you get crispy bottoms and tender soft tops that encase the juicy filling inside.
 excerpt: ''
 date: 2020-06-11T23:00:00Z
 thumb_image: "https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969567/001%20Turnip%20Gyoza/Website-Thumb.png"
