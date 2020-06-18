@@ -142,28 +142,13 @@
   }
 
   @media only screen and (max-width: 768px) {
-    display: block;
 
-    table{
-      margin: 0;
-      width: 100%;
+    .section-wrapper {
+      display: block;
+      margin: 0.8333em 0;
     }
-
-    .media-wrapper{
-      margin: 0.8333em 0 0.8333em 0;
-    }
-
-    p{
-      margin:0.8333em 0 0.8333em 0;
-    }
-
-    h6 {
-      margin-top: 1.248em;
-      letter-spacing: 0.15em;
-    }
-
-    blockquote {
-      margin-bottom: 3.3332em;
+    .media-wrapper, .text-wrapper {
+      margin: 0.8333em 0;
     }
   }
 }
