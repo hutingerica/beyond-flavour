@@ -139,10 +139,13 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 ###### `👀 : 2nd Step` Make Gyoza
 
-`〰️` Put the filling
-`〰️` Fold in half
-`〰️` Fold one side
-`〰️` Fold the other side
+`〰️` Put the filling<br>
+
+`〰️` Fold in half<br>
+
+`〰️` Fold one side<br>
+
+`〰️` Fold the other side<br>
 
 </div>
 
