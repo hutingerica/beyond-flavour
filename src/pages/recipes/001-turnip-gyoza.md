@@ -109,10 +109,15 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 ###### `👀 : 1st Step` Wrapper
 
 `〰️` Shape into donut and then divide it in half <br>
+
 `〰️` Leave the rest one with kitchen towel covered <br>
+
 `〰️` Roll it into a log <br>
+
 `〰️` Divide it into small pieces `10g` <br>
+
 `〰️` Flour doughs and work surface <br>
+
 `〰️` Roll-Rotate-Roll <br>
 
 </div>
@@ -170,10 +175,14 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 <div class = "step-wrapper">
 
 ###### `👀 : 3rd Step` Pan Fry
-`〰️` Put the filling
-`〰️` Fold in half
-`〰️` Fold one side
-`〰️` Fold the other side
+
+`〰️` Put the filling<br>
+
+`〰️` Fold in half<br>
+
+`〰️` Fold one side<br>
+
+`〰️` Fold the other side<br>
 
 </div>
 
@@ -200,10 +209,14 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 <div class = "step-wrapper">
 
 ###### `🔥 : Spicy` `🍋 : Sour` Dip
-`3 cup` Plain Flour
-`1 cup` Lukewarm Water
-`5 ml` Oil
-`5 g` Salt
+
+`3 cup` Plain Flour<br>
+
+`1 cup` Lukewarm Water<br>
+
+`5 ml` Oil<br>
+
+`5 g` Salt<br>
 
 </div>
 
