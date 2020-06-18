@@ -28,9 +28,9 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 <div class = "text-wrapper">
 
-###### `✋ : 10 mins` Knead
+###### `✋ : 6-8 mins` Knead
 
-###### `💤 : 20 mins` Rest
+###### `💤 : 30-60 mins` Rest
 
 `3 cup` Plain Flour <br>
 
@@ -42,7 +42,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 ###### `📝 : Notes`
 
-> Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, or of dough without filling.
+> Knead well until smooth. Cover the dough loosely with plastic wrap, foil, or a towel. Let the dough rise in a warm, draft-free location.
 
 </div>
 
@@ -60,7 +60,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 <div class = "text-wrapper">
 
-###### `🌀 : 10 mins` Mix
+###### `🌀 : 10 mins` Chop & Mix
 
 `2 (cup)` Chopped Turnip <br>
 
@@ -72,7 +72,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 ###### `📝 : Notes`
 
-> Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, or of dough without filling. Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
+> Sprinkle salt on chopped turnip and leave it for `10 mins` to dehydrate. I  didn't put many seasonings because there's already a great combination of flavour from kimchi and canned tuna.
 
 </div>
 
