@@ -98,8 +98,6 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 `〰️` Roll it into a log and divide it into small pieces `10g` <br>
 
-`〰️` Flour doughs and work surface <br>
-
 `〰️` Roll-Rotate-Roll <br>
 
 ##### `📝 : Notes`
