@@ -92,13 +92,11 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 ###### `👀 : 1st Step` Wrapper
 
-`〰️` Shape into donut and then divide it in half <br>
+`〰️` Shape into donut and divide it in half <br>
 
-`〰️` Leave the rest one with kitchen towel covered <br>
+`〰️` Cover the rest one with kitchen towel <br>
 
-`〰️` Roll it into a log <br>
-
-`〰️` Divide it into small pieces `10g` <br>
+`〰️` Roll it into a log and divide it into small pieces `10g` <br>
 
 `〰️` Flour doughs and work surface <br>
 
@@ -106,7 +104,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 ###### `📝 : Notes`
 
-> Don't forger to
+> Don't forger to flour doughs and work surface before you start `Roll-Rotate-Roll`.
 
 </div>
 
