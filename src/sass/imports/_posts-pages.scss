@@ -146,8 +146,24 @@
     .section-wrapper {
       display: block;
     }
-    .media-wrapper, .text-wrapper {
+    .media-wrapper {
       padding: 0;
+    }
+
+    .text-wrapper {
+      margin: 0.416em 0;
+
+      h6{
+        padding: 0.416em 0;
+      }
+
+      p{
+        padding: 0.208em 0;
+      }
+
+      blockquote{
+        margin: 0.416em 0;
+      }
     }
   }
 }
