@@ -25,14 +25,20 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 </div>
 
 <div class = "text-wrapper">
+
 <div class = "step-wrapper">
 
-| `✋ : 10 mins` Knead <br> `💤 : 20 mins` Rest |
-| --- |
-| `3 cup` Plain Flour |
-| `1 cup` Lukewarm Water |
-| `5 ml` Oil |
-| `5 g` Salt |
+###### `✋ : 10 mins` Knead
+
+###### `💤 : 20 mins` Rest
+
+`3 cup` Plain Flour <br>
+
+`1 cup` Lukewarm Water <br>
+
+`5 ml` Oil <br>
+
+`5 g` Salt <br>
 
 </div>
 
