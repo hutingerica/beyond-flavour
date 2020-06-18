@@ -93,6 +93,11 @@
     letter-spacing: 0.15em;
   }
 
+  .section-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+  }
+
   .media-wrapper{
     flex: 45%;
     margin: 0.416em;
