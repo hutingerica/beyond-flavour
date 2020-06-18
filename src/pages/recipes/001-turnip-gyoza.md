@@ -65,7 +65,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 </div>
 
-<div class= "note-wrapper>
+<div class= "note-wrapper">
 
 ###### `📝 : Notes`
 
