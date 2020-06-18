@@ -86,7 +86,6 @@
 .inner-recipe-sm {
 
   h4{
-    flex: 100%;
     margin: 1.666em 0 0.416em 0;
     padding-bottom: 0.416em;
     border-bottom: 1px solid rgba($color: #272c30, $alpha: 0.2em);
@@ -102,30 +101,41 @@
   .media-wrapper{
     flex: 45%;
     margin: 0.416em 0;
+    padding-right: 0.416em;
 
     img {
       width: 100%;
+      height: auto;
+      padding-right: 0.416em 0;
     }
   }
 
   .text-wrapper{
     flex: 50%;
     display: block;
-    margin: 0.8333em;
-  
+    margin: 0.416em;
 
     h6 {
       letter-spacing: 0.15em;
+      margin: 0.416em 0;
+      padding: 0.416em 0.8333em;
+    }
+
+    p{
+      margin: 0.208em 0;
+      padding: 0.208em 0.8333em;
+
     }
 
     blockquote {
-      margin:0.416em 0 2.4999em 0;
+      margin:0.416em 0.8333em;
+      padding: 0 0.8333em;
       font-size: 1em;
     }
   }
 
   p{
-    margin: 0.416em 0 0.416em 0;
+    margin: 0.8333em 0 0.8333em 0;
   }
 
   table{
