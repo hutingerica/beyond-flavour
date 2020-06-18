@@ -84,7 +84,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 <div class = "media-wrapper">
 
-<img src="https://res.cloudinary.com/dnxlxtcb7/image/upload/v1592497113/Recipes/001%20Turnip%20Gyoza/wrapper-gif.gif" />
+<img src="https://res.cloudinary.com/dnxlxtcb7/image/upload/c_scale,h_270,w_480/v1592497113/Recipes/001%20Turnip%20Gyoza/wrapper-gif.gif" />
 
 </div>
 
@@ -114,7 +114,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 <div class = "media-wrapper">
 
-<img src="https://res.cloudinary.com/dnxlxtcb7/image/upload/v1592497849/Recipes/001%20Turnip%20Gyoza/make_gyoza-gif.gif" />
+<img src="https://res.cloudinary.com/dnxlxtcb7/image/upload/c_scale,h_270,w_480/v1592497849/Recipes/001%20Turnip%20Gyoza/make_gyoza-gif.gif" />
 
 </div>
 
