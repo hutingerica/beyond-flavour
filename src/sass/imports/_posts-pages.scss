@@ -122,21 +122,17 @@
       letter-spacing: 0.15em;
       margin: 0.416em 0;
       padding: 0.416em 0.8333em;
-
-      &:last-child{
-        margin-top:0.8333em;
-      }
     }
 
     p{
       margin: 0.208em 0;
       padding: 0.208em 0.8333em;
-
     }
 
-    blockquote {
-      margin:0.416em 0.8333em;
-      padding: 0 0.8333em;
+    h5 {
+      letter-spacing: 0.15em;
+      margin:0.416em 0 0 0;
+      padding: 0.416em 0.8333em 0 0.8333em;
       font-size: 1em;
     }
   }

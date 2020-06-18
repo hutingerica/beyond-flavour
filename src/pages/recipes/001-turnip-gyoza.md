@@ -40,7 +40,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 `5 g` Salt <br>
 
-###### `📝 : Notes`
+##### `📝 : Notes`
 
 Knead well until smooth. Cover the dough loosely with plastic wrap, foil, or a towel. Let the dough rise in a warm, draft-free location.
 
@@ -70,7 +70,7 @@ Knead well until smooth. Cover the dough loosely with plastic wrap, foil, or a t
 
 `up to you` Black Pepper <br>
 
-###### `📝 : Notes`
+##### `📝 : Notes`
 
 Sprinkle salt on chopped turnip and leave it for `10 mins` to squeeze the water out. I  didn't put many seasonings because there's already a great combination of flavour from kimchi and canned tuna.
 
@@ -102,7 +102,7 @@ Sprinkle salt on chopped turnip and leave it for `10 mins` to squeeze the water 
 
 `〰️` Roll-Rotate-Roll <br>
 
-###### `📝 : Notes`
+##### `📝 : Notes`
 
 Don't forger to flour doughs and work surface before you start `Roll-Rotate-Roll`.
 
@@ -154,7 +154,7 @@ Don't forger to flour doughs and work surface before you start `Roll-Rotate-Roll
 
 `〰️` Fold the other side<br>
 
-###### `📝 : Notes`
+##### `📝 : Notes`
 
 Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
 
@@ -184,7 +184,7 @@ Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to
 
 `5 g` Salt<br>
 
-###### `📝 : Notes`
+##### `📝 : Notes`
 
 Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
 
