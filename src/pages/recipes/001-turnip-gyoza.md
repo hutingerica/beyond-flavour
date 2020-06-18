@@ -108,12 +108,12 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 ###### `👀 : 1st Step` Wrapper
 
-`〰️` Shape into donut and then divide it in half
-`〰️` Leave the rest one with kitchen towel covered
-`〰️` Roll it into a log
-`〰️` Divide it into small pieces `10g`
-`〰️` Flour doughs and work surface
-`〰️` Roll-Rotate-Roll
+`〰️` Shape into donut and then divide it in half <br>
+`〰️` Leave the rest one with kitchen towel covered <br>
+`〰️` Roll it into a log <br>
+`〰️` Divide it into small pieces `10g` <br>
+`〰️` Flour doughs and work surface <br>
+`〰️` Roll-Rotate-Roll <br>
 
 </div>
 
@@ -166,7 +166,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 <div class = "step-wrapper">
 
-`👀 : 3rd Step` Pan Fry
+###### `👀 : 3rd Step` Pan Fry
 `〰️` Put the filling
 `〰️` Fold in half
 `〰️` Fold one side
@@ -196,12 +196,11 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 <div class = "step-wrapper">
 
-| `🔥 : Spicy` `🍋 : Sour` Dip |
-| --- |
-| `3 cup` Plain Flour |
-| `1 cup` Lukewarm Water |
-| `5 ml` Oil |
-| `5 g` Salt |
+###### `🔥 : Spicy` `🍋 : Sour` Dip
+`3 cup` Plain Flour
+`1 cup` Lukewarm Water
+`5 ml` Oil
+`5 g` Salt
 
 </div>
 
@@ -212,6 +211,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 > Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
 
 </div>
+
 </div>
 
 
