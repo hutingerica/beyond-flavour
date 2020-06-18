@@ -87,7 +87,7 @@
 
   h4{
     margin: 1.666em 0 0.416em 0;
-    padding-bottom: 0.416em;
+    padding-bottom: 0.8333em;
     border-bottom: 1px solid rgba($color: #272c30, $alpha: 0.2em);
     letter-spacing: 0.15em;
   }
@@ -96,6 +96,7 @@
     display: flex;
     flex-wrap: wrap;
     margin: 0.416em 0;
+    margin-bottom: 1.666em;
   }
 
   .media-wrapper{
@@ -104,7 +105,7 @@
     padding-right: 0.416em;
 
     img {
-      max-width: 100%;
+      width: 100%;
       height: auto;
       padding: 0.416em 0;
     }
