@@ -16,6 +16,9 @@ thumb_image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969567/001%2
 image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turnip%20Gyoza/IMG_0167.jpg
 
 ---
+
+
+
 #### 🌑 Dough Skin
 
 <div class = "media-wrapper">
@@ -49,7 +52,13 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 > Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, or of dough without filling.
 
 </div>
+
 </div>
+
+
+
+
+
 
 #### 🌓 Filling
 
@@ -60,14 +69,18 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 </div>
 
 <div class = "text-wrapper">
+
 <div class= "step-wrapper">
 
-| `🌀 : 10 mins` Mix |
-| --- |
-| `2 (cup)` Chopped Turnip |
-| `1 cup` Chopped Kimchi |
-| `1 can` Tuna |
-| `up to you` Black Pepper |
+###### `🌀 : 10 mins` Mix
+
+`2 (cup)` Chopped Turnip <br>
+
+`1 cup` Chopped Kimchi <br>
+
+`1 can` Tuna
+
+`up to you` Black Pepper <br>
 
 </div>
 
@@ -78,6 +91,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 > Dumpling is a broad classification of dishes that consist of pieces of dough wrapped around a filling, or of dough without filling. Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
 
 </div>
+
 </div>
 
 #### 🌕 Way to Prepare
@@ -89,16 +103,17 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 </div>
 
 <div class = "text-wrapper">
+
 <div class= "step-wrapper">
 
-| `👀 : 1st Step` Wrapper |
-| --- |
-| `〰️` Shape into donut and then divide it in half |
-| `〰️` Leave the rest one with kitchen towel covered |
-| `〰️` Roll it into a log |
-| `〰️` Divide it into small pieces `10g` |
-| `〰️` Flour doughs and work surface |
-| `〰️` Roll-Rotate-Roll |
+###### `👀 : 1st Step` Wrapper
+
+`〰️` Shape into donut and then divide it in half
+`〰️` Leave the rest one with kitchen towel covered
+`〰️` Roll it into a log
+`〰️` Divide it into small pieces `10g`
+`〰️` Flour doughs and work surface
+`〰️` Roll-Rotate-Roll
 
 </div>
 
@@ -109,6 +124,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 > Don't forger to
 
 </div>
+
 </div>
 
 <div class = "media-wrapper">
@@ -118,14 +134,15 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 </div>
 
 <div class = "text-wrapper">
+
 <div class = "step-wrapper">
 
-| `👀 : 2nd Step` Make Gyoza |
-| --- |
-| `〰️` Put the filling |
-| `〰️` Fold in half |
-| `〰️` Fold one side |
-| `〰️` Fold the other side |
+###### `👀 : 2nd Step` Make Gyoza
+
+`〰️` Put the filling
+`〰️` Fold in half
+`〰️` Fold one side
+`〰️` Fold the other side
 
 </div>
 
@@ -136,6 +153,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 > Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
 
 </div>
+
 </div>
 
 <div class = "media-wrapper">
@@ -145,14 +163,14 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 </div>
 
 <div class = "text-wrapper">
+
 <div class = "step-wrapper">
 
-| `👀 : 3rd Step` Pan Fry |
-| --- |
-| `〰️` Put the filling |
-| `〰️` Fold in half |
-| `〰️` Fold one side |
-| `〰️` Fold the other side |
+`👀 : 3rd Step` Pan Fry
+`〰️` Put the filling
+`〰️` Fold in half
+`〰️` Fold one side
+`〰️` Fold the other side
 
 </div>
 
@@ -163,6 +181,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 > Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
 
 </div>
+
 </div>
 
 #### 🌗 Sauce
@@ -174,6 +193,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 </div>
 
 <div class = "text-wrapper">
+
 <div class = "step-wrapper">
 
 | `🔥 : Spicy` `🍋 : Sour` Dip |
