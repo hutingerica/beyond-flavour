@@ -122,17 +122,13 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 ###### `👀 : 2nd Step` Make Gyoza
 
-`〰️` Put the filling<br>
+`〰️` Add the filling<br>
 
 `〰️` Fold in half<br>
 
 `〰️` Fold one side<br>
 
 `〰️` Fold the other side<br>
-
-###### `📝 : Notes`
-
-> Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
 
 </div>
 
