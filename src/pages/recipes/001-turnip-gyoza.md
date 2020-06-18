@@ -116,7 +116,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 <div class = "media-wrapper">
 
-<img src="https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0165.jpg" />
+<img src="https://res.cloudinary.com/dnxlxtcb7/image/upload/v1592497849/Recipes/001%20Turnip%20Gyoza/make_gyoza-gif.gif" />
 
 </div>
 
