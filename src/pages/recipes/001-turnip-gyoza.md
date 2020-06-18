@@ -72,7 +72,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 ###### `📝 : Notes`
 
-> Sprinkle salt on chopped turnip and leave it for `10 mins` to dehydrate. I  didn't put many seasonings because there's already a great combination of flavour from kimchi and canned tuna.
+> Sprinkle salt on chopped turnip and leave it for `10 mins` to squeeze the water out. I  didn't put many seasonings because there's already a great combination of flavour from kimchi and canned tuna.
 
 </div>
 
