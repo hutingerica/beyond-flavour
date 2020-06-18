@@ -16,10 +16,9 @@ thumb_image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969567/001%2
 image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turnip%20Gyoza/IMG_0167.jpg
 
 ---
-
-
-
 #### 🌑 Dough Skin
+
+<div class = "section-wrapper">
 
 <div class = "media-wrapper">
 
@@ -55,12 +54,11 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 </div>
 
-
-
-
-
+</div>
 
 #### 🌓 Filling
+
+<div class = "section-wrapper">
 
 <div class = "media-wrapper">
 
@@ -94,7 +92,11 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 </div>
 
+</div>
+
 #### 🌕 Way to Prepare
+
+<div class = "section-wrapper">
 
 <div class = "media-wrapper">
 
@@ -132,6 +134,10 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 </div>
 
+</div>
+
+<div class = "section-wrapper">
+
 <div class = "media-wrapper">
 
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0165.jpg)
@@ -164,6 +170,10 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 </div>
 
+</div>
+
+<div class = "section-wrapper">
+
 <div class = "media-wrapper">
 
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0165.jpg)
@@ -191,6 +201,8 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 ###### `📝 : Notes`
 
 > Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
+
+</div>
 
 </div>
 
@@ -230,6 +242,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 </div>
 
+</div>
 
 #### `🥟 : OO1` Turnip Gyoza
 
