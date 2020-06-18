@@ -72,7 +72,7 @@ Knead well until smooth. Cover the dough loosely with plastic wrap, foil, or a t
 
 ###### `📝 : Notes`
 
-> Sprinkle salt on chopped turnip and leave it for `10 mins` to squeeze the water out. I  didn't put many seasonings because there's already a great combination of flavour from kimchi and canned tuna.
+Sprinkle salt on chopped turnip and leave it for `10 mins` to squeeze the water out. I  didn't put many seasonings because there's already a great combination of flavour from kimchi and canned tuna.
 
 </div>
 
@@ -104,7 +104,7 @@ Knead well until smooth. Cover the dough loosely with plastic wrap, foil, or a t
 
 ###### `📝 : Notes`
 
-> Don't forger to flour doughs and work surface before you start `Roll-Rotate-Roll`.
+Don't forger to flour doughs and work surface before you start `Roll-Rotate-Roll`.
 
 </div>
 
@@ -156,7 +156,7 @@ Knead well until smooth. Cover the dough loosely with plastic wrap, foil, or a t
 
 ###### `📝 : Notes`
 
-> Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
+Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
 
 </div>
 
@@ -186,7 +186,7 @@ Knead well until smooth. Cover the dough loosely with plastic wrap, foil, or a t
 
 ###### `📝 : Notes`
 
-> Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
+Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
 
 </div>
 
