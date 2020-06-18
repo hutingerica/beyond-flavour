@@ -85,7 +85,7 @@
 }
 
 .inner-recipe-sm {
-  
+
   transition: margin-left .25s ease-in-out;
   h4{
     margin: 1.666em 0 0.416em 0;
@@ -138,13 +138,7 @@
   }
 
   p{
-    margin: 0.8333em 0 0.8333em 0;
-  }
-
-  table{
-    flex:1;
-    margin: 0.8333em 0em 0.416em 0.416em;
-    max-width: 570px
+    margin: 1.666em 0;
   }
 
   @media only screen and (max-width: 768px) {
