@@ -32,9 +32,13 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 ###### `💤 : 30-60 mins` Rest
 
-`3 cup` Plain Flour `1 cup` Lukewarm Water <br>
+`3 cup` Plain Flour <br>
 
-`5 ml` Oil `5 g` Salt <br>
+`1 cup` Lukewarm Water <br>
+
+`5 ml` Oil <br>
+
+`5 g` Salt <br>
 
 ##### `📝 : Notes`
 
