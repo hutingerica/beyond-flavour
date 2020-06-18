@@ -42,7 +42,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 ###### `📝 : Notes`
 
-> Knead well until smooth. Cover the dough loosely with plastic wrap, foil, or a towel. Let the dough rise in a warm, draft-free location.
+Knead well until smooth. Cover the dough loosely with plastic wrap, foil, or a towel. Let the dough rise in a warm, draft-free location.
 
 </div>
 
