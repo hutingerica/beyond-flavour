@@ -57,6 +57,7 @@
   display: flex;
   flex-wrap: wrap;
   margin-bottom: 2em;
+  transition: margin-left .25s ease-in-out;
   p {
     margin: 0 0 1.66667em;
     flex:1;
@@ -84,7 +85,8 @@
 }
 
 .inner-recipe-sm {
-
+  
+  transition: margin-left .25s ease-in-out;
   h4{
     margin: 1.666em 0 0.416em 0;
     padding-bottom: 0.8333em;
