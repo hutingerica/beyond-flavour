@@ -110,14 +110,15 @@
 
   .step-wrapper{
     margin: 0.8333em 0em 0.416em 0.416em;
-    flex:2
+    flex: 2;
   }
 
   .note-wrapper{
     margin: 0.416em;
     background-color: #000;
     color: #fff;
-    flex: 1
+    flex: 1;
+    height: 50%;
 
     h6 {
       letter-spacing: 0.15em;
