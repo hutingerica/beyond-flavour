@@ -187,7 +187,8 @@ Because the filling is already cooked, it's no need to steam too long. Adding a 
 
 ##### `📝 : Notes`
 
-Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
+There's already a spicy flavour from kimchi, so the sauce here is a version of less chili oil.
+
 
 </div>
 
