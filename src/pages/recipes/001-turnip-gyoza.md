@@ -146,17 +146,20 @@ Don't forger to flour doughs and work surface before you start `Roll-Rotate-Roll
 
 ###### `👀 : 3rd Step` Pan Fry
 
-`〰️` Put the filling<br>
+`〰️` Heat oil in a frying pan over medium high heat<br>
 
-`〰️` Fold in half<br>
+`〰️` Place gyozas when the pan is hot<br>
 
-`〰️` Fold one side<br>
+`〰️` Cook until the bottom of the gyoza turns golden brown.<br>
 
-`〰️` Fold the other side<br>
+`〰️` Add `1/4 cup` of water to the pan and immediately cover with a lid for steaming around `2 mins` or until most of the water evaporates<br>
 
-##### `📝 : Notes`
+`〰️` Remove the lid and pour the `corn flour water` around the corners of gyozas to make crispy texture. Cook uncovered until the gyoza is nice and crisp on the bottom.
 
-Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to prevent getting dried
+  ##### `📝 : Notes`
+
+To make Corn flour water : `1tbsp` corn flour and `1/3 cup ` water.<br>
+Because the filling is already cooked, it's no need to steam too long. Adding a little bit of oil around the pan is easier to transfer gyozas to the plate.
 
 </div>
 
