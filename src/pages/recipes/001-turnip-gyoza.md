@@ -177,15 +177,13 @@ Because the filling is already cooked, it's no need to steam too long. Adding a 
 
 <div class = "text-wrapper">
 
-###### `🔥 : Spicy` `🍋 : Sour` Dip
+###### `🔥 : Spicy` `🍋 : Sour` Soy Dipping Sauce
 
-`3 cup` Plain Flour<br>
+`1` Soy Sauce<br>
 
-`1 cup` Lukewarm Water<br>
+`1` White Vinegar (Any kind of vinegar)<br>
 
-`5 ml` Oil<br>
-
-`5 g` Salt<br>
+`0.5` Chili Oil<br>
 
 ##### `📝 : Notes`
 
