@@ -192,6 +192,8 @@ Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to
 
 #### `🥟 : OO1` Turnip Gyoza
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G0XNA51qtmM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0159.jpg)
 
 ![](https://res.cloudinary.com/dnxlxtcb7/v1592493713/Recipes/001%20Turnip%20Gyoza/IMG_0165.jpg)
