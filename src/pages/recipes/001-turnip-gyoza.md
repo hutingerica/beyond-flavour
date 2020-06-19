@@ -12,7 +12,7 @@ subtitle: Juicy on the inside, crispy and golden brown on the outside, these pan
   encase the juicy filling inside.
 excerpt: ''
 date: 2020-06-11T23:00:00.000+00:00
-thumb_image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969567/001%20Turnip%20Gyoza/Website-Thumb.png
+thumb_image: https://res.cloudinary.com/dnxlxtcb7/v1591969565/Recipes/001%20Turnip%20Gyoza/IMG_0167.jpg
 image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turnip%20Gyoza/IMG_0167.jpg
 
 ---
