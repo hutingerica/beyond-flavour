@@ -196,6 +196,12 @@ Don't forger to sprinkle flour on the wrapper and place it with kitchen towel to
 
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0159.jpg)
 
+![](https://res.cloudinary.com/dnxlxtcb7/v1592493713/Recipes/001%20Turnip%20Gyoza/IMG_0165.jpg)
+
+![](https://res.cloudinary.com/dnxlxtcb7/v1591969569/Recipes/001%20Turnip%20Gyoza/IMG_0164.jpg)
+
+![](https://res.cloudinary.com/dnxlxtcb7/v1592498636/Recipes/001%20Turnip%20Gyoza/IMG_0162.jpg)
+
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0166.jpg)
 
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969561/Recipes/001%20Turnip%20Gyoza/IMG_0161.jpg)
