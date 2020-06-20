@@ -8,10 +8,15 @@ fields:
   description: The title of the project
   config:
     required: true
-- type: text
-  name: subtitle
+- name: subtitle
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
   label: Subtitle
-  description: The text shown just below the project title.
 - type: text
   name: excerpt
   label: Excerpt
