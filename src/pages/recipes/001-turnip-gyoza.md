@@ -173,7 +173,7 @@ Because the filling is already cooked, it's no need to steam too long. Adding a 
 
 <div class = "media-wrapper">
 
-<img src="![](https://res.cloudinary.com/dnxlxtcb7/image/upload/c_scale,h_270,w_480/v1592665507/Recipes/001%20Turnip%20Gyoza/IMG_0174_q4daoh.jpg)" />
+<img src="https://res.cloudinary.com/dnxlxtcb7/image/upload/c_scale,h_270,w_480/v1592665507/Recipes/001%20Turnip%20Gyoza/IMG_0174_q4daoh.jpg" />
 
 </div>
 
