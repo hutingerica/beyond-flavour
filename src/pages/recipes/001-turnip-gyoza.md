@@ -3,15 +3,10 @@ cloudinary_url: https://res.cloudinary.com/dnxlxtcb7/image/upload
 template: project
 title: 001 Turnip Gyoza
 subtitle: "Juicy on the inside, crispy and golden brown on the outside, these pan-fried
-  dumplings, Gyoza, are popular weeknight meal as well as a great appetizer with a
-  pint of beer \U0001F37A  after work \U0001F4BC. The key characteristic of gyoza
-  (日式煎餃) lies in its cooking method, which involves both pan-frying and steaming.
-  They are first fried in a hot pan until crispy brown on the bottom sides, then a
-  small amount of water is added before the pan is covered to quickly steam the entire
-  dumplings. This technique gives gyoza the best mix of textures, where you get crispy
-  bottoms and tender soft tops that encase the juicy filling inside. This recipe will
-  focus on how to make gyoza from scratch. I will film the pan-frying technique in
-  the future videos, after solving the technical issue in my kitchen \U0001F4F9."
+  dumplings, Gyoza (日式煎餃) , are popular weeknight meal as well as a great appetiser
+  with a pint of beer \U0001F37A  after work \U0001F4BC. \nThis recipe will focus
+  on how to make gyoza from scratch. I will film the pan-frying technique in the future
+  videos, after solving the technical issue in my kitchen \U0001F4F9."
 excerpt: ''
 date: 2020-06-11T23:00:00.000+00:00
 thumb_image: https://res.cloudinary.com/dnxlxtcb7/v1591969565/Recipes/001%20Turnip%20Gyoza/IMG_0167.jpg
