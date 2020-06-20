@@ -44,5 +44,3 @@ fields:
     required: true
 pages:
 - src/pages/recipes/001-turnip-gyoza.md
-- src/pages/recipes/002.md
-- src/pages/recipes/003.md
