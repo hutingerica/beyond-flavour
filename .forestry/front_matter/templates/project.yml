@@ -48,4 +48,5 @@ fields:
   config:
     required: true
 pages:
+- src/pages/recipes/001-turnip-gyoza-copy.md
 - src/pages/recipes/001-turnip-gyoza.md
