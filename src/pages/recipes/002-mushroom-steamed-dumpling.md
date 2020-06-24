@@ -2,18 +2,16 @@
 cloudinary_url: https://res.cloudinary.com/dnxlxtcb7/image/upload
 template: project
 title: 002 Mushroom Steamed Dumpling
-subtitle: "Juicy on the inside, crispy and golden brown on the outside, these pan-fried
-  dumplings, Gyoza (日式煎餃) , are popular weeknight meal as well as a great appetiser
-  with a pint of beer \U0001F37A  after work \U0001F4BC. \nThis recipe will focus
-  on how to make gyoza from scratch. I will film the pan-frying technique in the future
-  videos, after solving the technical issue in my kitchen \U0001F4F9."
+subtitle: Today's challenge is "mushroom" that is going out of date from my local
+  grocery, and here're steamed dumplings with mushrooms and pork mince inside. Hope
+  you enjoy it !
 excerpt: ''
 date: 2020-06-11T23:00:00.000+00:00
-thumb_image: https://res.cloudinary.com/dnxlxtcb7/v1591969565/Recipes/001%20Turnip%20Gyoza/IMG_0167.jpg
-image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turnip%20Gyoza/IMG_0167.jpg
+thumb_image: https://res.cloudinary.com/dnxlxtcb7/v1593013538/Recipes/002%20Mushroom%20Steamed%20Dumpling/IMG_0187_lfvqgu.jpg
+image: https://res.cloudinary.com/dnxlxtcb7/v1593013538/Recipes/002%20Mushroom%20Steamed%20Dumpling/IMG_0187_lfvqgu.jpg
 
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G0XNA51qtmM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=kZDvv-N1B8s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### 🌑 Dough Skin
 
@@ -31,9 +29,9 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 ###### `💤 : 30-60 mins` Rest
 
-`3 cup` Plain Flour <br>
+`300 g` Plain Flour <br>
 
-`1 cup` Lukewarm Water <br>
+`150 ml` Hot Water (Boiling) <br>
 
 `5 ml` Oil <br>
 
@@ -41,7 +39,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turni
 
 ##### `📝 : Notes`
 
-Knead well until smooth. Cover the dough loosely with plastic wrap, foil, or a towel. Let the dough rise in a warm, draft-free location.
+Using hot water can provide the dough skin a good strength. Cover the dough loosely with plastic wrap, foil, or a towel. Let the dough rise in a warm, draft-free location.
 
 </div>
 
@@ -59,19 +57,31 @@ Knead well until smooth. Cover the dough loosely with plastic wrap, foil, or a t
 
 <div class = "text-wrapper">
 
-###### `🌀 : 10 mins` Chop & Mix
+###### `🌀 : 10 mins` Chop & Seasoning
 
-`2 (cup)` Chopped Turnip <br>
+`10` Chopped Mushroom <br>
 
-`1 cup` Chopped Kimchi <br>
+`300g` Pork Mince <br>
 
-`1 can` Tuna
+`up to you` Chopped Ginger <br>
 
-`up to you` Black Pepper <br>
+`up to you` Chopped Garlic <br>
+  
+`up to you` Chopped Chive or Spring Onion <br>
+ 
+`Half a` Lemon <br>
+  
+`1 tbsp` Soy Sauce <br>
+ 
+`up to you` Black pepper <br>
+
+`Optional` Oil <br>
+  
+`2` Ice Cube <br>
 
 ##### `📝 : Notes`
 
-Sprinkle salt on chopped turnip and leave it for `10 mins` to squeeze the water out. I  didn't put many seasonings because there's already a great combination of flavour from kimchi and canned tuna.
+Sprinkle salt on chopped mushrooms and leave it for 10 mins to squeeze the water out. Add some oil to provide more delicate flavours. Put an ice into the mixing bowl can increase juicy texture of the filling. 
 
 </div>
 
@@ -97,11 +107,11 @@ Sprinkle salt on chopped turnip and leave it for `10 mins` to squeeze the water 
 
 `〰️` Roll it into a log and divide it into small pieces `10g` <br>
 
-`〰️` Roll-Rotate-Roll <br>
+`〰️` Roll in - Roll  out - Rotate <br>
 
 ##### `📝 : Notes`
 
-Don't forger to flour doughs and work surface before you start `Roll-Rotate-Roll`.
+Don't forger to flour doughs and work surface before you start `Roll in - Roll  out - Rotate`.
 
 </div>
 
@@ -117,7 +127,7 @@ Don't forger to flour doughs and work surface before you start `Roll-Rotate-Roll
 
 <div class = "text-wrapper">
 
-###### `👀 : 2nd Step` Make Gyoza
+###### `👀 : 2nd Step` Make Dumpling
 
 `〰️` Add the filling<br>
 
@@ -141,22 +151,13 @@ Don't forger to flour doughs and work surface before you start `Roll-Rotate-Roll
 
 <div class = "text-wrapper">
 
-###### `👀 : 3rd Step` Pan Fry
+###### `👀 : 3rd Step` Steam
 
-`〰️` Heat oil in a frying pan over medium high heat.<br>
+`〰️` Place baking paper on the bottom of dumplings <br>
 
-`〰️` Place gyozas when the pan is hot.<br>
+`〰️` Place dumplings (`6-7` dumplings a time)<br>
 
-`〰️` Cook until the bottom of the gyoza turns golden brown.<br>
-
-`〰️` Add `1/4 cup` of water to the pan and immediately cover with a lid for steaming around `2 mins` or until most of the water evaporates.<br>
-
-`〰️` Remove the lid and pour the `corn flour water` around the corners of gyozas to make crispy texture. Cook uncovered until the gyoza is nice and crisp on the bottom.
-
-##### `📝 : Notes`
-
-To make Corn flour water : `1tbsp` corn flour and `1/3 cup` water.<br>
-Because the filling is already cooked, it's no need to steam too long. Adding a little bit of oil around the pan is easier to transfer gyozas to the plate.
+`〰️` Steam for `10 mins` <br>
 
 </div>
 
@@ -181,16 +182,15 @@ Because the filling is already cooked, it's no need to steam too long. Adding a 
 `1` White Vinegar (Any kind of vinegar)<br>
 
 `0.5` Chili Oil<br>
+  
+`up to you` Fine Julienne Ginger <br>
 
-##### `📝 : Notes`
-
-There's already a spicy flavour from kimchi, so the sauce here is a version of less chili oil.
-
-</div>
 
 </div>
 
-#### `🥟 : OO1` Turnip Gyoza
+</div>
+
+#### `🥟 : OO2` Mushroom Steamed Dumpling
 
 ![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0159.jpg)
 
