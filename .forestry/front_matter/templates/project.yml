@@ -48,5 +48,4 @@ fields:
   config:
     required: true
 pages:
-- src/pages/recipes/001-mushroom-steamed-dumpling.md
 - src/pages/recipes/001-turnip-gyoza.md
