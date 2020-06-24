@@ -1,19 +1,19 @@
 ---
 cloudinary_url: https://res.cloudinary.com/dnxlxtcb7/image/upload
 template: project
-title: 001 Turnip Gyoza-(copy)
+title: 001 Mushroom Steamed Dumpling
 subtitle: "Juicy on the inside, crispy and golden brown on the outside, these pan-fried
   dumplings, Gyoza (日式煎餃) , are popular weeknight meal as well as a great appetiser
   with a pint of beer \U0001F37A  after work \U0001F4BC. \nThis recipe will focus
   on how to make gyoza from scratch. I will film the pan-frying technique in the future
   videos, after solving the technical issue in my kitchen \U0001F4F9."
 excerpt: ''
-date: 2020-06-11T23:00:00.000+00:00
-thumb_image: https://res.cloudinary.com/dnxlxtcb7/v1591969565/Recipes/001%20Turnip%20Gyoza/IMG_0167.jpg
-image: https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969565/001%20Turnip%20Gyoza/IMG_0167.jpg
+date: 2020-06-18T23:00:00Z
+thumb_image: https://res.cloudinary.com/dnxlxtcb7/v1593013538/Recipes/002%20Mushroom%20Steamed%20Dumpling/IMG_0187_lfvqgu.jpg
+image: https://res.cloudinary.com/dnxlxtcb7/v1593013538/Recipes/002%20Mushroom%20Steamed%20Dumpling/IMG_0187_lfvqgu.jpg
 
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G0XNA51qtmM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=kZDvv-N1B8s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### 🌑 Dough Skin
 
