@@ -11,7 +11,7 @@ thumb_image: https://res.cloudinary.com/dnxlxtcb7/v1593013538/Recipes/002%20Mush
 image: https://res.cloudinary.com/dnxlxtcb7/v1593013538/Recipes/002%20Mushroom%20Steamed%20Dumpling/IMG_0187_lfvqgu.jpg
 
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=kZDvv-N1B8s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZDvv-N1B8s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### 🌑 Dough Skin
 
