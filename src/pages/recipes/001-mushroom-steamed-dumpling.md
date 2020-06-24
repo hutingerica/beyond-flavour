@@ -1,7 +1,7 @@
 ---
 cloudinary_url: https://res.cloudinary.com/dnxlxtcb7/image/upload
 template: project
-title: 001 Mushroom Steamed Dumpling
+title: 002 Mushroom Steamed Dumpling
 subtitle: "Juicy on the inside, crispy and golden brown on the outside, these pan-fried
   dumplings, Gyoza (日式煎餃) , are popular weeknight meal as well as a great appetiser
   with a pint of beer \U0001F37A  after work \U0001F4BC. \nThis recipe will focus
