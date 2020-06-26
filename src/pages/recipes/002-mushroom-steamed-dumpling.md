@@ -93,7 +93,7 @@ Sprinkle salt on chopped mushrooms and leave it for 10 mins to squeeze the water
 
 <div class = "media-wrapper">
 
-<img src="https://res.cloudinary.com/dnxlxtcb7/image/upload/c_scale,h_270,w_480/v1592497113/Recipes/001%20Turnip%20Gyoza/wrapper-gif.gif" />
+<img src="https://res.cloudinary.com/dnxlxtcb7/image/upload/v1592497113/Recipes/001%20Turnip%20Gyoza/wrapper-gif.gif" />
 
 </div>
 
@@ -121,7 +121,7 @@ Don't forger to flour doughs and work surface before you start `Roll in - Roll  
 
 <div class = "media-wrapper">
 
-<img src="https://res.cloudinary.com/dnxlxtcb7/image/upload/c_scale,h_270,w_480/v1592497849/Recipes/001%20Turnip%20Gyoza/make_gyoza-gif.gif" />
+<img src="https://res.cloudinary.com/dnxlxtcb7/image/upload/v1592497849/Recipes/001%20Turnip%20Gyoza/make_gyoza-gif.gif" />
 
 </div>
 
@@ -169,7 +169,7 @@ Don't forger to flour doughs and work surface before you start `Roll in - Roll  
 
 <div class = "media-wrapper">
 
-<img src="https://res.cloudinary.com/dnxlxtcb7/image/upload/c_scale,h_270,w_480/v1592665507/Recipes/002%20Mushroom%20Steamed%20Dumpling/04.sauce_mkqsnr.jpg" />
+<img src="https://res.cloudinary.com/dnxlxtcb7/image/upload/v1592665507/Recipes/002%20Mushroom%20Steamed%20Dumpling/04.sauce_mkqsnr.jpg" />
 
 </div>
 
