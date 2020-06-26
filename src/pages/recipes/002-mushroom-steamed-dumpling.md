@@ -93,7 +93,7 @@ Sprinkle salt on chopped mushrooms and leave it for 10 mins to squeeze the water
 
 <div class = "media-wrapper">
 
-<img src="https://res.cloudinary.com/dnxlxtcb7/image/upload/v1592497113/Recipes/001%20Turnip%20Gyoza/wrapper-gif.gif" />
+<img src="https://res.cloudinary.com/dnxlxtcb7/image/upload/v1593186822/Recipes/002%20Mushroom%20Steamed%20Dumpling/Animated_GIF-downsized_large-4_b7rvis.gif" />
 
 </div>
 
