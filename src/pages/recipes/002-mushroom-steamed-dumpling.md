@@ -66,22 +66,22 @@ Using hot water can provide the dough skin a good strength. Cover the dough loos
 `up to you` Chopped Ginger <br>
 
 `up to you` Chopped Garlic <br>
-  
+
 `up to you` Chopped Chive or Spring Onion <br>
- 
+
 `Half a` Lemon <br>
-  
+
 `1 tbsp` Soy Sauce <br>
- 
+
 `up to you` Black pepper <br>
 
 `Optional` Oil <br>
-  
+
 `2` Ice Cube <br>
 
 ##### `📝 : Notes`
 
-Sprinkle salt on chopped mushrooms and leave it for 10 mins to squeeze the water out. Add some oil to provide more delicate flavours. Put an ice into the mixing bowl can increase juicy texture of the filling. 
+Sprinkle salt on chopped mushrooms and leave it for 10 mins to squeeze the water out. Add some oil to provide more delicate flavours. Put an ice into the mixing bowl can increase juicy texture of the filling.
 
 </div>
 
@@ -111,7 +111,7 @@ Sprinkle salt on chopped mushrooms and leave it for 10 mins to squeeze the water
 
 ##### `📝 : Notes`
 
-Don't forger to flour doughs and work surface before you start `Roll in - Roll  out - Rotate`.
+Don't forger to flour doughs and work surface before you start `Roll in - Roll out - Rotate`.
 
 </div>
 
@@ -182,9 +182,8 @@ Don't forger to flour doughs and work surface before you start `Roll in - Roll  
 `1` White Vinegar (Any kind of vinegar)<br>
 
 `0.5` Chili Oil<br>
-  
-`up to you` Fine Julienne Ginger <br>
 
+`up to you` Fine Julienne Ginger <br>
 
 </div>
 
@@ -192,16 +191,10 @@ Don't forger to flour doughs and work surface before you start `Roll in - Roll  
 
 #### `🥟 : OO2` Mushroom Steamed Dumpling
 
-![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0159.jpg)
+![](https://res.cloudinary.com/dnxlxtcb7/v1593187357/Recipes/002%20Mushroom%20Steamed%20Dumpling/mushroom_ugjewl.png)
 
-![](https://res.cloudinary.com/dnxlxtcb7/v1592493713/Recipes/001%20Turnip%20Gyoza/IMG_0165.jpg)
+![](https://res.cloudinary.com/dnxlxtcb7/v1593187192/Recipes/002%20Mushroom%20Steamed%20Dumpling/IMG_0032_wwujhn.jpg)
 
-![](https://res.cloudinary.com/dnxlxtcb7/v1591969569/Recipes/001%20Turnip%20Gyoza/IMG_0164.jpg)
+![](https://res.cloudinary.com/dnxlxtcb7/v1593187192/Recipes/002%20Mushroom%20Steamed%20Dumpling/Snapseed_2_hwymbc.jpg)![](https://res.cloudinary.com/dnxlxtcb7/v1593187190/Recipes/002%20Mushroom%20Steamed%20Dumpling/IMG_0029_kzhc89.jpg)
 
-![](https://res.cloudinary.com/dnxlxtcb7/v1592498636/Recipes/001%20Turnip%20Gyoza/IMG_0162.jpg)
-
-![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0166.jpg)
-
-![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969561/Recipes/001%20Turnip%20Gyoza/IMG_0161.jpg)
-
-![](https://res.cloudinary.com/dnxlxtcb7/image/upload/v1591969562/Recipes/001%20Turnip%20Gyoza/IMG_0163.jpg)
+![](https://res.cloudinary.com/dnxlxtcb7/v1593187192/Recipes/002%20Mushroom%20Steamed%20Dumpling/IMG_0031_ecfkso.jpg)
