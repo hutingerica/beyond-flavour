@@ -19,7 +19,7 @@ image: https://res.cloudinary.com/dnxlxtcb7/v1593013538/Recipes/002%20Mushroom%2
 
 <div class = "media-wrapper">
 
-<img src="https://res.cloudinary.com/dnxlxtcb7/image/upload/v1592429810/Recipes/001%20Turnip%20Gyoza/Dough-gif.gif" />
+<img src="https://res.cloudinary.com/dnxlxtcb7/image/upload/c_scale,h_270,w_480/v1593183874/Recipes/002%20Mushroom%20Steamed%20Dumpling/01.dough_j9etwi.png" />
 
 </div>
 
