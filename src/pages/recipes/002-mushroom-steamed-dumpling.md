@@ -121,7 +121,7 @@ Don't forger to flour doughs and work surface before you start `Roll in - Roll  
 
 <div class = "media-wrapper">
 
-<img src="https://res.cloudinary.com/dnxlxtcb7/image/upload/v1592497849/Recipes/001%20Turnip%20Gyoza/make_gyoza-gif.gif" />
+<img src="https://res.cloudinary.com/dnxlxtcb7/image/upload/v1593186492/Recipes/002%20Mushroom%20Steamed%20Dumpling/Animated_GIF-downsized_large-3_vgpwq2.gif" />
 
 </div>
 
