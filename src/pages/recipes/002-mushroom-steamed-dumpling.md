@@ -195,6 +195,8 @@ Don't forger to flour doughs and work surface before you start `Roll in - Roll o
 
 ![](https://res.cloudinary.com/dnxlxtcb7/v1593187192/Recipes/002%20Mushroom%20Steamed%20Dumpling/IMG_0032_wwujhn.jpg)
 
-![](https://res.cloudinary.com/dnxlxtcb7/v1593187192/Recipes/002%20Mushroom%20Steamed%20Dumpling/Snapseed_2_hwymbc.jpg)![](https://res.cloudinary.com/dnxlxtcb7/v1593187190/Recipes/002%20Mushroom%20Steamed%20Dumpling/IMG_0029_kzhc89.jpg)
+![](https://res.cloudinary.com/dnxlxtcb7/v1593187192/Recipes/002%20Mushroom%20Steamed%20Dumpling/Snapseed_2_hwymbc.jpg)
+
+![](https://res.cloudinary.com/dnxlxtcb7/v1593187190/Recipes/002%20Mushroom%20Steamed%20Dumpling/IMG_0029_kzhc89.jpg)
 
 ![](https://res.cloudinary.com/dnxlxtcb7/v1593187192/Recipes/002%20Mushroom%20Steamed%20Dumpling/IMG_0031_ecfkso.jpg)
