@@ -51,7 +51,7 @@ Using hot water can provide the dough skin a good strength. Cover the dough loos
 
 <div class = "media-wrapper">
 
-<img src="https://res.cloudinary.com/dnxlxtcb7/image/upload/v1592499316/Recipes/001%20Turnip%20Gyoza/Filling.png"/>
+<img src="https://res.cloudinary.com/dnxlxtcb7/image/upload/c_scale,h_270,w_480/v1593183874/Recipes/002%20Mushroom%20Steamed%20Dumpling/02.fillingpng_ehmdw2.png"/>
 
 </div>
 
@@ -169,7 +169,7 @@ Don't forger to flour doughs and work surface before you start `Roll in - Roll  
 
 <div class = "media-wrapper">
 
-<img src="https://res.cloudinary.com/dnxlxtcb7/image/upload/c_scale,h_270,w_480/v1592665507/Recipes/001%20Turnip%20Gyoza/IMG_0174_q4daoh.jpg" />
+<img src="https://res.cloudinary.com/dnxlxtcb7/image/upload/c_scale,h_270,w_480/v1592665507/Recipes/002%20Mushroom%20Steamed%20Dumpling/04.sauce_mkqsnr.jpg" />
 
 </div>
 
